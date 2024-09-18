@@ -579,30 +579,6 @@ https://epg.pw/stream/eefe6cb512978f2ae6655942726d3db62226f7a84f4b2a25e4bc3babaa
 https://epg.pw/stream/9e948bbd5453affbe5fe879bc1c4145203aac9b993b01e7db9b1148e40815499.m3u8
 #EXTINF:-1 group-title="数字电视(IPV4),#genre#",CCTV風雲劇場
 https://epg.pw/stream/676f4b273ee7a1b54be02b6406b73822401d0be7b04001f0e77cb0c2a88830bf.m3u8
-#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰中文
-http://122.246.150.139:9999/rtp/233.50.200.191:5140?%24%E6%B5%99%E6%B1%9F%E7%94%B5%E4%BF%A1
-#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰中文
-http://122.246.150.139:9999/rtp/233.50.200.42:5140?%24%E6%B5%99%E6%B1%9F%E7%94%B5%E4%BF%A1
-#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰中文
-http://61.130.232.37:8881/rtp/233.50.200.191:5140?%24%E6%B5%99%E6%B1%9F%E7%94%B5%E4%BF%A1
-#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰中文
-http://61.130.232.37:8881/rtp/233.50.200.42:5140?%24%E6%B5%99%E6%B1%9F%E7%94%B5%E4%BF%A1
-#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰中文
-http://61.130.232.37:8889/rtp/233.50.200.191:5140?%24%E6%B5%99%E6%B1%9F%E7%94%B5%E4%BF%A1
-#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰中文
-http://61.130.232.37:8889/rtp/233.50.200.42:5140?%24%E6%B5%99%E6%B1%9F%E7%94%B5%E4%BF%A1
-#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰中文
-http://www.lebaobei.top:6868/udp/239.255.30.50:8231
-#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰资讯
-http://122.246.150.139:9999/rtp/233.50.200.192:5140?%24%E6%B5%99%E6%B1%9F%E7%94%B5%E4%BF%A1
-#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰资讯
-http://61.130.232.196:8881/rtp/233.50.200.192:5140?%24%E6%B5%99%E6%B1%9F%E7%94%B5%E4%BF%A1
-#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰资讯
-http://115.203.255.235:58888/udp/233.50.200.192:5140
-#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰资讯
-http://www.lebaobei.top:6868/udp/239.255.30.70:8231
-#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰资讯
-http://115.203.255.235:58888/udp/233.50.200.192:5140
 #EXTINF:-1 group-title="港台电视(IPV4),#genre#",時尚台FTV
 http://80.94.54.42/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 group-title="港台电视(IPV4),#genre#",AMC电影台
