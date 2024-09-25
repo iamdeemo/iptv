@@ -1068,9 +1068,6 @@ CCTV17,http://www.syl88.online:8123/PLTV/88888888/224/3221225892/100001000000000
 
 
 山东频道(IPV4),#genre#
-潍坊二套经济生活频道,https://wfrtv-live-tz.wfcmw.cn:5443/live/wftv2.m3u8
-潍坊三套公共频道,https://wfrtv-live-tz.wfcmw.cn:5443/live/wftv3.m3u8
-潍坊四套科教频道,https://wfrtv-live-tz.wfcmw.cn:5443/live/wftv4.m3u8
 青州电视台新闻综合频道,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
 青州电视台生活频道,http://sdqz.chinashadt.com:2036/live/stream:2.stream/playlist.m3u8
 青州电视台文化旅游频道,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
