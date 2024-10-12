@@ -3892,6 +3892,38 @@ http://zzlive.zzc-media.com:8092/live/xwzh.m3u8
 
 
 #EXTM3U
+#EXTINF:-1 group-title="芒果独播电视剧",芒果独播电视剧1
+http://zby.xjqxz.top/dsdsj1/live.m3u8
+#EXTINF:-1 group-title="芒果独播电视剧",芒果独播电视剧2
+http://zby.xjqxz.top/dsdsj2/live.m3u8
+#EXTINF:-1 group-title="芒果独播电视剧",芒果独播电视剧3
+http://zby.xjqxz.top/dsdsj3/live.m3u8
+#EXTINF:-1 group-title="芒果独播电视剧",芒果独播电视剧4
+http://zby.xjqxz.top/gzdsj1/live.m3u8
+#EXTINF:-1 group-title="芒果独播电视剧",芒果独播电视剧5
+http://zby.xjqxz.top/gzdsj2/live.m3u8
+#EXTINF:-1 group-title="芒果独播电视剧",芒果独播电视剧6
+http://zby.xjqxz.top/gzwxj/live.m3u8
+#EXTINF:-1 group-title="芒果独播电视剧",芒果独播电视剧7
+http://zby.xjqxz.top/gzdsj3/live.m3u8
+#EXTINF:-1 group-title="芒果独播电视剧",芒果独播电视剧8
+http://zby.xjqxz.top/gzdsj4/live.m3u8
+#EXTINF:-1 group-title="芒果独播电视剧",芒果独播电视剧9
+http://zby.xjqxz.top/gzdsj5/live.m3u8
+#EXTINF:-1 group-title="芒果独播电视剧",芒果独播电视剧10
+http://zby.xjqxz.top/kzzypd/live.m3u8
+#EXTINF:-1 group-title="芒果独播电视剧",芒果独播电视剧11
+http://zby.xjqxz.top/dzzypd/live.m3u8
+#EXTINF:-1 group-title="芒果独播电视剧",芒果独播电视剧12
+http://zby.xjqxz.top/dzzypd2/live.m3u8
+#EXTINF:-1 group-title="芒果独播电视剧",芒果独播电视剧13
+http://zby.xjqxz.top/dzzypd3/live.m3u8
+
+
+
+
+
+#EXTM3U
 #EXTINF:-1 group-title="4K频道",北京纪实科教8K
 http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1 group-title="4K频道",自然4K
