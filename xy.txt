@@ -3501,7 +3501,7 @@ Now TV,https://epg.pw/stream/d102b4ec7480bb04df22c7ee49b64d33408cd566f9f3245db56
 耀才財經臺,https://epg.pw/stream/dd22b2b5f1c65e8294658a1d7732d747d14e6e4e8438f8fd30f90ca318063d3d.m3u8
 耀才財經臺,https://epg.pw/stream/80569330bb5aeb8688d1c55d643ba04008ed5f9313f1f012688a559d1379bb8d.m3u8
 耀才財經臺,https://epg.pw/stream/89eef7f40ece15ce35ecb80e3fd18ebd67bf74d927337c8cc66fdca919d0f83b.m3u8
-TVB星河台https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+TVB星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/playlist.m3u8
 TVB无线新闻台,http://zsntlqj.xicp.net:8896/bysid/83
@@ -3651,7 +3651,7 @@ JSports1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
 JSports2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
 JSports3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
 JSports4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
-日本映画専門ch"tvg-logo="https://i.imgur.com/vMtPnYi.png"group-title="BS
+日本映画専門,https://i.imgur.com/vMtPnYi.png"group-title="BS
 BSアニマックス,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 BSテレ东,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 GAORA,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -3788,7 +3788,6 @@ DDNational,https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.
 ZEEHINDUSTAN,https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
 TV9BHARATVARSH,https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8
 ColorsHD,http://119.156.26.155:8000/play/a06w
-http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test
 colorsINFINITYHD,http://119.156.26.155:8000/play/a07h
 PRIVEHD,http://119.156.26.155:8000/play/a07j
 flixHD,http://119.156.26.155:8000/play/a06x
@@ -3807,7 +3806,7 @@ TVBThai,https://n-edge-1-th.v2h-cdn.com/tvb_m/tvb_thai/playlist.m3u8
 TVBThai,https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8?
 มังกร,http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
 MVLAO,https://edge6a.v2h-cdn.com/mvlao/mvlao.stream/playlist.m3u8
-Boomeranghttps://edge6a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
+Boomerang,https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 TVBThai,https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist_w68863317.m3u8
 TRT1,https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
 
