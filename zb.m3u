@@ -6629,10 +6629,6 @@ https://epg.pw/stream/dd22b2b5f1c65e8294658a1d7732d747d14e6e4e8438f8fd30f90ca318
 https://epg.pw/stream/80569330bb5aeb8688d1c55d643ba04008ed5f9313f1f012688a559d1379bb8d.m3u8
 #EXTINF:-1 group-title="VIP频道1",耀才財經臺
 https://epg.pw/stream/89eef7f40ece15ce35ecb80e3fd18ebd67bf74d927337c8cc66fdca919d0f83b.m3u8
-#EXTINF:-1 group-title="TVB星河台https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",TVB星河台
-http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:-1 group-title="TVB星河台https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",TVB星河台
-https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/playlist.m3u8
 #EXTINF:-1 group-title="TVB星河台https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",TVB无线新闻台
 http://zsntlqj.xicp.net:8896/bysid/83
 #EXTINF:-1 group-title="TVB星河台https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",香港34台全网
