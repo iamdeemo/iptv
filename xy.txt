@@ -806,10 +806,7 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 
 
 湖北频道(IPV4),#genre#
-湖北综合,http://59.173.183.242:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北经视,http://119.98.133.99:4022/udp/239.69.1.41:9886
-湖北经视,http://59.173.183.242:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北公共,http://59.173.183.242:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北垄上,http://www.furymax.top:85/rtp/239.69.1.43:9898
 武汉一台新闻综合,https://epg.pw/stream/cd08d0f0a20c0e2b316abb40e9f8a810465d639683ac46eeeeb93fa200585ed7.m3u8
 武汉新闻综合,https://epg.pw/stream/277c2b350a2b37b80dd8a4b766d55c7bf7b44e2b0cdfbe38024cf5803f80ace4.m3u8#http://stream.appwuhan.com/1tzb/sd/live.m3u8
