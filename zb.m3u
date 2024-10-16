@@ -1527,6 +1527,16 @@ https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd4
 https://epg.pw/stream/100f8d10fb39d11544e9f834c30dd5a57e92915f801d8e9bf50bf0f01345bef7.ctv
 #EXTINF:-1 group-title="体育频道(IPV6)",足球频道
 https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
+#EXTINF:-1 group-title="体育频道(IPV6)",咪咕运动「IPV6」
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+#EXTINF:-1 group-title="体育频道(IPV6)",咪咕直播_𝟙「IPV6」
+http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+#EXTINF:-1 group-title="体育频道(IPV6)",咪咕直播_𝟚「IPV6」
+http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+#EXTINF:-1 group-title="体育频道(IPV6)",咪咕直播_𝟛「IPV6」
+http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+#EXTINF:-1 group-title="体育频道(IPV6)",咪咕直播_𝟜「IPV6」
+http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 #EXTINF:-1 group-title="体育频道(IPV6)",咪咕直播_2*「IPV6」
 http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 #EXTINF:-1 group-title="体育频道(IPV6)",咪咕直播-3「IPV6」
@@ -1558,16 +1568,9 @@ http://112.83.136.141:80/live/605964rzzgGEOZHr.flv?302_type=cold_aggr&_session_i
 
 
 
-
 #EXTM3U
-#EXTINF:-1 group-title="湖北频道(IPV4)",湖北综合
-http://59.173.183.242:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="湖北频道(IPV4)",湖北经视
 http://119.98.133.99:4022/udp/239.69.1.41:9886
-#EXTINF:-1 group-title="湖北频道(IPV4)",湖北经视
-http://59.173.183.242:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="湖北频道(IPV4)",湖北公共
-http://59.173.183.242:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="湖北频道(IPV4)",湖北垄上
 http://www.furymax.top:85/rtp/239.69.1.43:9898
 #EXTINF:-1 group-title="湖北频道(IPV4)",武汉一台新闻综合
@@ -1610,6 +1613,7 @@ https://epg.pw/stream/a54e5bea2c05e2aa3f7c76eda34ffd95cfdf2e5ff9c0aa5ac284e34d8a
 https://epg.pw/stream/1586c79b7cfe7c205b3508bfd9d0fac2da8a9eb50edbb301312b3059740019d9.m3u8
 #EXTINF:-1 group-title="湖北频道(IPV4)",湖北经视
 http://113.57.20.158:9901/tsfile/live/1017_1.m3u8
+
 
 
 
@@ -2065,28 +2069,81 @@ http://www.syl88.online:8123/PLTV/88888888/224/3221226033/1000010000000006000000
 
 
 #EXTM3U
-#EXTINF:-1 group-title="安徽频道(IPV6)",「安徽」安徽经济生活
+#EXTINF:-1 group-title="安徽频道(IPV4)",「安徽」安徽经济生活
 http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8?zanhd
-#EXTINF:-1 group-title="安徽频道(IPV6)",「安徽」安徽影院
+#EXTINF:-1 group-title="安徽频道(IPV4)",「安徽」安徽影院
 http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd
-#EXTINF:-1 group-title="安徽频道(IPV6)",「安徽」安徽综艺体育
+#EXTINF:-1 group-title="安徽频道(IPV4)",「安徽」安徽综艺体育
 http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd
-#EXTINF:-1 group-title="安徽频道(IPV6)",「安徽」肥西综合
+#EXTINF:-1 group-title="安徽频道(IPV4)",「安徽」肥西综合
 http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5/hls.m3u8?zanhd
-#EXTINF:-1 group-title="安徽频道(IPV6)",「安徽」歙县综合频道
+#EXTINF:-1 group-title="安徽频道(IPV4)",「安徽」歙县综合频道
 http://112.30.194.221:20080/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8?zanhd
-#EXTINF:-1 group-title="安徽频道(IPV6)",安徽影视频道
+#EXTINF:-1 group-title="安徽频道(IPV4)",安徽影视频道
 http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
-#EXTINF:-1 group-title="安徽频道(IPV6)",安徽经济生活频道
+#EXTINF:-1 group-title="安徽频道(IPV4)",安徽经济生活频道
 http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
-#EXTINF:-1 group-title="安徽频道(IPV6)",安徽综艺体育频道
+#EXTINF:-1 group-title="安徽频道(IPV4)",安徽综艺体育频道
 http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
-#EXTINF:-1 group-title="安徽频道(IPV6)",亳州农村
+#EXTINF:-1 group-title="安徽频道(IPV4)",亳州农村
 http://zbbf2.ahbztv.com/live/418.m3u8?zanhd
-#EXTINF:-1 group-title="安徽频道(IPV6)",亳州新闻
+#EXTINF:-1 group-title="安徽频道(IPV4)",亳州新闻
 http://58.220.63.43/zbbf2.ahbztv.com/live/416.m3u8?zanhd&wsSession=9c4e040e25b04ef0d8e433e6-172672213876304&wsIPSercert=6d426cba8b106cdec9147b1e2a9ace7c&wsiphost=local&wsBindIP=1
-#EXTINF:-1 group-title="安徽频道(IPV6)",安徽影视频道
+#EXTINF:-1 group-title="安徽频道(IPV4)",安徽影视频道
 http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
+#EXTINF:-1 group-title="安徽频道(IPV4)",安徽影视
+http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
+#EXTINF:-1 group-title="安徽频道(IPV4)",亳州农村
+http://220.180.110.101:8083/videos/live/39/13/o4ncrHkSp7q09/o4ncrHkSp7q09.M3U8
+#EXTINF:-1 group-title="安徽频道(IPV4)",池州文教
+http://wjsp.chiznews.com:8037/live/wjsh.m3u8
+#EXTINF:-1 group-title="安徽频道(IPV4)",池州新闻
+http://wjsp.chiznews.com:8037/live/xwzh.m3u8
+#EXTINF:-1 group-title="安徽频道(IPV4)",滁州公共
+http://live.cztv.cc:85/live/ggpd.m3u8
+#EXTINF:-1 group-title="安徽频道(IPV4)",滁州公共
+http://live.cztv.cc:85/live/ggpd.m3u8?zanhd
+#EXTINF:-1 group-title="安徽频道(IPV4)",滁州新闻
+http://live.cztv.cc:85/live/xwpd.m3u8
+#EXTINF:-1 group-title="安徽频道(IPV4)",滁州科教
+http://live.cztv.cc:85/live/sjpd.m3u8?zanhd
+#EXTINF:-1 group-title="安徽频道(IPV4)",滁州综合
+http://live.cztv.cc:85/live/xwpd.m3u8?zanhd
+#EXTINF:-1 group-title="安徽频道(IPV4)",濉溪综合
+http://112.30.194.221:20080/live/7f6926bc79174b03a212fe2aad0b62b6/hls.m3u8
+#EXTINF:-1 group-title="安徽频道(IPV4)",濉溪经济
+http://112.30.194.221:20080/live/b4bd9bfcda3b467d8f358db687750226/hls.m3u8
+#EXTINF:-1 group-title="安徽频道(IPV4)",歙县综合
+http://112.30.194.221:20080/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8
+#EXTINF:-1 group-title="安徽频道(IPV4)",淮南新闻
+http://112.30.194.221:20080/live/cb8cb76bfc154f579df8c9d2443127af/hls.m3u8
+#EXTINF:-1 group-title="安徽频道(IPV4)",淮南公共
+http://112.30.194.221:20080/live/6e43da3335a640b3a73c948fccf935c5/hls.m3u8
+#EXTINF:-1 group-title="安徽频道(IPV4)",肥西新闻
+http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5/hls.m3u8
+#EXTINF:-1 group-title="安徽频道(IPV4)",肥西综合
+http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5/hls.m3u8
+#EXTINF:-1 group-title="安徽频道(IPV4)",歙县综合
+http://112.30.194.221:20080/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8
+#EXTINF:-1 group-title="安徽频道(IPV4)",岳西新闻
+http://112.30.194.221:20080/live/b62955a9283f4c2ea8ccb96e8ac468bc/hls.m3u8
+#EXTINF:-1 group-title="安徽频道(IPV4)",当涂新闻
+http://112.30.194.221:20080/live/4f38ef59c79e4d4bac1a995681102573/hls.m3u8
+#EXTINF:-1 group-title="安徽频道(IPV4)",霍邱新闻
+http://112.30.194.221:20080/live/186d03e65fd64d33b033c31da5a4a5a0/hls.m3u8
+#EXTINF:-1 group-title="安徽频道(IPV4)",固镇新闻
+http://www.guzhenm.com:7001/hls/hd-live.m3u8
+#EXTINF:-1 group-title="安徽频道(IPV4)",固镇影视
+http://www.guzhenm.com:7004/hls/hd-live.m3u8
+#EXTINF:-1 group-title="安徽频道(IPV4)",灵璧综合
+http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
+#EXTINF:-1 group-title="安徽频道(IPV4)",宿州公共
+http://live.ahsz.tv/video/s10001-ggpd/index.m3u8?zanhd
+#EXTINF:-1 group-title="安徽频道(IPV4)",固镇新闻
+http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
+#EXTINF:-1 group-title="安徽频道(IPV4)",灵璧综合
+http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8?zanhd
+
 
 
 
