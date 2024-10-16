@@ -787,6 +787,11 @@ CCTV5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
 魅力足球,https://epg.pw/stream/100f8d10fb39d11544e9f834c30dd5a57e92915f801d8e9bf50bf0f01345bef7.ctv
 足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
+咪咕运动「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+咪咕直播_𝟙「IPV6」,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+咪咕直播_𝟚「IPV6」,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+咪咕直播_𝟛「IPV6」,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+咪咕直播_𝟜「IPV6」,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 咪咕直播_2*「IPV6」,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 咪咕直播-3「IPV6」,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 咪咕直播-24「IPV6」,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
@@ -816,7 +821,8 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8
 武汉文体,https://epg.pw/stream/3363bf78f924a14b974645948b97bc3c5424a5482445614442201a370154384f.m3u8
 荆门新闻,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
-荆门教育,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
+荆门教育,http://stream.jmtv.c
+om.cn/ggsh/sd/live.m3u8
 荆州新闻,https://epg.pw/stream/643cd4ee368696910cbe4c30a3612b9cb68cd08feca6a70e434cf2b8ca21789e.m3u8
 荆门公共频道,http://stream.jmtv.com.cn/ngpd/sd/live.m3u8
 孝感公共频道,http://live.yingxi.tv/channel1/sd/live.m3u8
@@ -1066,7 +1072,7 @@ CCTV17,http://www.syl88.online:8123/PLTV/88888888/224/3221225892/100001000000000
 
 
 
-安徽频道(IPV6),#genre#
+安徽频道(IPV4),#genre#
 「安徽」安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8?zanhd
 「安徽」安徽影院,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd
 「安徽」安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd
@@ -1078,6 +1084,32 @@ CCTV17,http://www.syl88.online:8123/PLTV/88888888/224/3221225892/100001000000000
 亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8?zanhd
 亳州新闻,http://58.220.63.43/zbbf2.ahbztv.com/live/416.m3u8?zanhd&wsSession=9c4e040e25b04ef0d8e433e6-172672213876304&wsIPSercert=6d426cba8b106cdec9147b1e2a9ace7c&wsiphost=local&wsBindIP=1
 安徽影视频道,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
+安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
+亳州农村,http://220.180.110.101:8083/videos/live/39/13/o4ncrHkSp7q09/o4ncrHkSp7q09.M3U8
+池州文教,http://wjsp.chiznews.com:8037/live/wjsh.m3u8
+池州新闻,http://wjsp.chiznews.com:8037/live/xwzh.m3u8
+滁州公共,http://live.cztv.cc:85/live/ggpd.m3u8
+滁州公共,http://live.cztv.cc:85/live/ggpd.m3u8?zanhd
+滁州新闻,http://live.cztv.cc:85/live/xwpd.m3u8
+滁州科教,http://live.cztv.cc:85/live/sjpd.m3u8?zanhd
+滁州综合,http://live.cztv.cc:85/live/xwpd.m3u8?zanhd
+濉溪综合,http://112.30.194.221:20080/live/7f6926bc79174b03a212fe2aad0b62b6/hls.m3u8
+濉溪经济,http://112.30.194.221:20080/live/b4bd9bfcda3b467d8f358db687750226/hls.m3u8
+歙县综合,http://112.30.194.221:20080/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8
+淮南新闻,http://112.30.194.221:20080/live/cb8cb76bfc154f579df8c9d2443127af/hls.m3u8
+淮南公共,http://112.30.194.221:20080/live/6e43da3335a640b3a73c948fccf935c5/hls.m3u8
+肥西新闻,http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5/hls.m3u8
+肥西综合,http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5/hls.m3u8
+歙县综合,http://112.30.194.221:20080/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8
+岳西新闻,http://112.30.194.221:20080/live/b62955a9283f4c2ea8ccb96e8ac468bc/hls.m3u8
+当涂新闻,http://112.30.194.221:20080/live/4f38ef59c79e4d4bac1a995681102573/hls.m3u8
+霍邱新闻,http://112.30.194.221:20080/live/186d03e65fd64d33b033c31da5a4a5a0/hls.m3u8
+固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8
+固镇影视,http://www.guzhenm.com:7004/hls/hd-live.m3u8
+灵璧综合,http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
+宿州公共,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8?zanhd
+固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
+灵璧综合,http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8?zanhd
 
 
 
