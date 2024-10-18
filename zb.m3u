@@ -604,6 +604,12 @@ https://epg.pw/stream/676f4b273ee7a1b54be02b6406b73822401d0be7b04001f0e77cb0c2a8
 
 
 #EXTM3U
+#EXTINF:-1 group-title="港台电视(IPV4)",香港凤凰卫视资讯台
+http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",凤凰卫视中文台
+http://58.144.154.93/qctv.fengshows.cn/live/0701pcc48.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",凤凰卫视香港台
+http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 group-title="港台电视(IPV4)",時尚台FTV
 http://80.94.54.42/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 group-title="港台电视(IPV4)",AMC电影台
