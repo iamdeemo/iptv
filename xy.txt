@@ -21,6 +21,13 @@ CETV-1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CETV-2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 4KUHD,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
+#EXTM3U x-tvg-url="https://epg.iill.top/epg"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",香港凤凰卫视资讯台
+http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",凤凰卫视中文台
+http://58.144.154.93/qctv.fengshows.cn/live/0701pcc48.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",凤凰卫视香港台
+http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 
 
 
