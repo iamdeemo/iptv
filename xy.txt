@@ -1235,15 +1235,10 @@ CCTV15高清,http://116.128.242.83:9901/tsfile/live/0016_1.m3u8?key=txiptv
 深圳龙岗,http://liveplay.sznews.com/66_showto_live/2647.m3u8
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-广东民生,http://116.21.121.30:4021/udp/239.77.0.5:5146
 广东民生,http://119.135.1.16:6699/live/1057/index.m3u8
-汕头综合,http://www.zzlag.top:9003/hls/47/index.m3u8
 广东新闻,http://mom.coms.hk:9901/tsfile/live/1008_1.m3u8
-广东珠江,http://125.89.163.44:8888/udp/239.77.0.1:5146
 广东珠江,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/index.m3u8
-广州影视,http://58.144.154.93/tencentplay.gztv.com/live/yingshi.m3u8
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
-广州新闻,http://58.144.154.93/tencentplay.gztv.com/live/xinwen.m3u8
 广州综合,http://117.72.68.25:9930/gztv.php?id=gzzh
 广州电视台综合频道,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=234cace79a853922dd89c29a3823c470&txTime=191825e8b1d
 广州电视台影视频道,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=2b09d952702fe2c67ddad695faa4c27c&txTime=191b5db5ed0
@@ -1255,9 +1250,20 @@ CCTV15高清,http://116.128.242.83:9901/tsfile/live/0016_1.m3u8?key=txiptv
 河源公共,http://125.89.163.44:8888/udp/239.253.43.214:5146
 河源综合,http://120.234.49.38:7000/udp/239.21.0.48:3532
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-佛山公共,http://58.144.154.93/xmplay.fstv.com.cn/live/xingmu20220818165035f3Ym.m3u8
-佛山影视,http://58.144.154.93/xmplay.fstv.com.cn/live/xingmu20211111163523oBdp.m3u8
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+广州竞赛频道,http://php.jdshipin.com:8880/gztv.php?id=jingsai
+佛山综合频道,http://php.jdshipin.com:8880/fstv.php?id=fszh
+佛山影视频道,http://php.jdshipin.com:8880/fstv.php?id=fsys
+佛山公共频道,http://php.jdshipin.com:8880/fstv.php?id=fsgg
+佛山南海频道,http://php.jdshipin.com:8880/fstv.php?id=fsnh
+佛山顺德频道,http://php.jdshipin.com:8880/fstv.php?id=fssd
+佛山高明频道,http://php.jdshipin.com:8880/fstv.php?id=fsgm
+佛山三水频道,http://php.jdshipin.com:8880/fstv.php?id=fsss
+南国都市频道,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+番禺电视频道,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
+河源综合频道,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+云浮文旅频道,https://livestream.oeeee.com/slive/17807.m3u8
+
 
 
 
