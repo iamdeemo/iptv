@@ -3689,7 +3689,6 @@ JSports1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
 JSports2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
 JSports3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
 JSports4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
-日本映画専門,https://i.imgur.com/vMtPnYi.png"group-title="BS
 BSアニマックス,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 BSテレ东,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 GAORA,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -3807,7 +3806,7 @@ RussiaToday,https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
 Redcams,https://camcity.redcom.ru/Redcams/index.m3u8
 3ABN,https://hls.tv.3angels.ru/stream/HQ.m3u8
 Мир24,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-Субботаorighttp://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/9103/index.m3u8
+Субботаorig,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/9103/index.m3u8
 req,https://streaming101.goodstream.cyou/live/748-req_offset_28000000-req_window_0-1k_v5.m3u8
 ПриключенияHD,http://cdn.klimedia.space/lb/HD_Teletr/index.m3u8?token=klimedia.space:a2RzYWdmeTlhNjprZHNhZ2Z5OWE2
 РусскаяКомедия,http://aa7bc0b4.akadatel.com/iptv/ED8DTMPASXMV7Q/733/index.m3u8
