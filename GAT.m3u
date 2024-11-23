@@ -1,0 +1,2000 @@
+#EXTM3U
+#EXTINF:-1 group-title="港台电视(IPV4)",香港 卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",凤凰资讯
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 group-title="港台电视(IPV4)",tvbs闽南频特
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",香港面包频道
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",八大戏剧频特
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",八大第一频特
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",三立戏剧频特
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",NHK新闻频英
+http://61.221.215.25:8800/hls/51/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",八大综合频特
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",中天娱乐频特
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",纬来精彩频特
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",动物星球频国
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",ASC搜索频英
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",Diso综合频英
+http://61.221.215.25:8800/hls/1/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",环球电视台
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",三立戏剧
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",DaAi 1
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",DaAi 2
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",VIUTV
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
+#EXTINF:-1 group-title="港台电视(IPV4)",东森财经
+http://litv.zapi.us.kg/?id=4gtv-4gtv153
+#EXTINF:-1 group-title="港台电视(IPV4)",民視台灣台
+http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",TVBS新闻
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",香港
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+#EXTINF:-1 group-title="港台电视(IPV4)",环球电视台
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+#EXTINF:-1 group-title="港台电视(IPV4)",环球电视台
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",澳门莲花
+http://php.jdshipin.com:8880/amlh.php
+#EXTINF:-1 group-title="港台电视(IPV4)",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 group-title="港台电视(IPV4)",无线新闻
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 group-title="港台电视(IPV4)",TVB星河
+http://php.jdshipin.com:8880/smt.php?id=Xinhe
+#EXTINF:-1 group-title="港台电视(IPV4)",凤凰中文
+http://e1.woc.iiiya.cn:8888/rtp/239.61.2.184:9092
+#EXTINF:-1 group-title="港台电视(IPV4)",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+#EXTINF:-1 group-title="港台电视(IPV4)",香港卫视
+http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+#EXTINF:-1 group-title="港台电视(IPV4)",TVBS亚洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",TVBS欢乐
+http://litv.zapi.us.kg/?id=4gtv-4gtv068
+#EXTINF:-1 group-title="港台电视(IPV4)",中天娱乐
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",环球电视台
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",RTHK34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",RTHK34
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",大爱
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",大爱2
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",台湾番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",香港面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",香港33台高清
+https://epg.pw/stream/00ea10452b568a8e587ebece8311785afe7f33c41437de0a68839e6392d45dfc.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",香港34台高清
+https://epg.pw/stream/16e85bed392dd123c9d057343c09e2310c6975d4866da8c92f7b0127fa865523.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",香港35台高清
+https://epg.pw/stream/cabd18457f278cda40ac160bccabf77a6b0ad341e50a00bd62620d78819dd220.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",香港35台高清
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",耀才财经台
+https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",番薯
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",星空
+http://wouu.net:9977/udp/239.93.0.156:2193
+#EXTINF:-1 group-title="港台电视(IPV4)",星空
+http://nas.jumping.wang:5555/udp/239.93.0.156:2193
+#EXTINF:-1 group-title="港台电视(IPV4)",RTHK33频道
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",RTHK33频道
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",RTHK34频道
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",RTHK34频道
+https://epg.pw/stream/6e369058eba43ac78a0c076f78eaa1227afd471bdccf9df70077738d1152e0ba.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",RTHK34频道
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",RTHK35频道
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 group-title="港台电视(IPV4)",华丽翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+#EXTINF:-1 group-title="港台电视(IPV4)",TVBS
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",TVBS亚洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",TVB星河国语
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+#EXTINF:-1 group-title="港台电视(IPV4)",TVB星河国语
+http://php.jdshipin.com:8880/smt.php?id=Xinhe
+#EXTINF:-1 group-title="港台电视(IPV4)",VIUTV
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
+#EXTINF:-1 group-title="港台电视(IPV4)",无线新闻
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 group-title="港台电视(IPV4)",CCTV1港澳版(RTHK33)
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",台湾Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",香港面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",香港开电视 / HKSTV-HKS
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",八大戏剧
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",三立戏剧
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",八大第一
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",八大综合
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",AMC电影台
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",中華小當家
+http://61.221.215.25:8800/hls/40/index.m3u8
+
+#EXTINF:-1 group-title="港台电视(IPV4)",点掌财经
+https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",凤凰卫视
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",時尚台FTV
+http://80.94.54.42/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",AMC电影台
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",三立戏剧
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",八大戏剧
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",八大第一
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",八大综合
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",中天娱乐
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",探索亚洲
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+#EXTINF:-1 group-title="港台电视(IPV4)",环球电视台
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",澳门卫星
+http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+#EXTINF:-1 group-title="港台电视(IPV4)",环球电视台
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",澳门莲花
+http://php.jdshipin.com:8880/amlh.php
+#EXTINF:-1 group-title="港台电视(IPV4)",星空卫视
+http://wouu.net:9977/udp/239.93.0.156:2193
+#EXTINF:-1 group-title="港台电视(IPV4)",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",TVBS欢乐
+http://37.27.111.214:8080/live/24/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",龙华电影[720p]
+http://37.27.111.214:8080/live/19/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",BLOOMBERG[720p]
+http://37.27.111.214:8080/live/34/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",CINEMAWORLD[720p]
+http://37.27.111.214:8080/live/30/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",CNBC[720p]
+http://37.27.111.214:8080/live/102/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",DWNEWS[720p]
+http://37.27.111.214:8080/live/46/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",ELTV生活英语台[720p]
+http://37.27.111.214:8080/live/56/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",FESTIVAL[720p]
+http://37.27.111.214:8080/live/83/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",GOOD2[720p]
+http://37.27.111.214:8080/live/99/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",HISTORY[720p]
+http://37.27.111.214:8080/live/27/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",HITS[720p]
+http://37.27.111.214:8080/live/28/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",KOREA[720p]
+http://37.27.111.214:8080/live/52/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",LIFETIME[720p]
+http://37.27.111.214:8080/live/71/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",LOVENATURE[720p]
+http://37.27.111.214:8080/live/84/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",LUXE[720p]
+http://37.27.111.214:8080/live/86/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",MCE[720p]
+http://37.27.111.214:8080/live/98/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",MTV[720p]
+http://37.27.111.214:8080/live/25/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",Nickelodeon[720p]
+http://37.27.111.214:8080/live/12/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",PETCLUB[720p]
+http://37.27.111.214:8080/live/81/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",ROCKACTION[720p]
+http://37.27.111.214:8080/live/94/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",ROCK[720p]
+http://37.27.111.214:8080/live/70/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",TECHSTORM[720p]
+http://37.27.111.214:8080/live/80/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",TV5MONDE[720p]
+http://37.27.111.214:8080/live/9/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",TVBS[720p]
+http://37.27.111.214:8080/live/23/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",TVBS欢乐台[720p]
+http://37.27.111.214:8080/live/24/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",TiTV[720p]
+http://37.27.111.214:8080/live/2/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",VOA[720p]
+http://37.27.111.214:8080/live/45/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",elta生活旅游[720p]
+http://37.27.111.214:8080/live/85/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",hokkotv[720p]
+http://37.27.111.214:8080/live/1/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",momo[720p]
+http://37.27.111.214:8080/live/3/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",东森购物[720p]
+http://37.27.111.214:8080/live/61/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",东森购物[720p]
+http://37.27.111.214:8080/live/66/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",东森超视[720p]
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 group-title="港台电视(IPV4)",中视[720p]
+http://37.27.111.214:8080/live/7/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",中视[720p]
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 group-title="港台电视(IPV4)",中视青采[720p]
+http://37.27.111.214:8080/live/48/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",互动英语[720p]
+http://37.27.111.214:8080/live/54/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",亚洲旅游[720p]
+http://37.27.111.214:8080/live/10/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",动漫2[720p]
+http://37.27.111.214:8080/live/106/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",动漫[720p]
+http://37.27.111.214:8080/live/105/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",動畫台[720p]
+http://37.27.111.214:8080/live/57/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",华视新闻[720p]
+http://37.27.111.214:8080/live/8/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",博斯无限[720p]
+http://37.27.111.214:8080/live/15/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",博斯网球[720p]
+http://37.27.111.214:8080/live/16/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",博斯运动1[720p]
+http://37.27.111.214:8080/live/14/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",博斯高球1[720p]
+http://37.27.111.214:8080/live/13/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",哆啦A梦[720p]
+http://37.27.111.214:8080/live/107/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",寰宇台湾[720p]
+http://37.27.111.214:8080/live/63/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",幸福空间[720p]
+http://37.27.111.214:8080/live/26/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",探案台[720p]
+http://37.27.111.214:8080/live/11/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",旅游[720p]
+http://37.27.111.214:8080/live/82/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",智林体育[720p]
+http://37.27.111.214:8080/live/77/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",東森新聞[720p]
+http://37.27.111.214:8080/live/20/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",民视[720p]
+http://37.27.111.214:8080/live/6/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",民视台湾[720p]
+http://37.27.111.214:8080/live/5/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",民视第一[720p]
+http://37.27.111.214:8080/live/4/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",猪哥亮[720p]
+http://37.27.111.214:8080/live/35/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",环球电视[1080p]
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",电视剧2[720p]
+http://37.27.111.214:8080/live/109/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",电视剧3[720p]
+http://37.27.111.214:8080/live/111/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",电视剧[720p]
+http://37.27.111.214:8080/live/108/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",纬来育乐[720p]
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 group-title="港台电视(IPV4)",综艺[720p]
+http://37.27.111.214:8080/live/67/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",美亚C+[1080p]
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",超人[720p]
+http://37.27.111.214:8080/live/110/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",镜新闻[720p]
+http://37.27.111.214:8080/live/62/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",CMUSIC音乐台
+http://37.27.111.214:8080/live/72/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",东森戏剧
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8530/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",八大戏剧
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",公视戏剧
+http://37.27.111.214:8080/live/87/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",49号
+http://61.221.215.25:8800/hls/49/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",BLOOMBERG
+http://37.27.111.214:8080/live/34/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",CINEMAWORLD
+http://37.27.111.214:8080/live/30/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",CNBC
+http://shuma004.chunfengyun.top:8080/live/102/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",DWNEWS
+http://shuma004.chunfengyun.top:8080/live/46/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",Dbox
+http://61.221.215.25:8800/hls/54/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",HISTORY
+http://37.27.111.214:8080/live/27/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",HITS
+http://37.27.111.214:8080/live/28/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",LISTENONSPOTIFY
+http://61.221.215.25:8800/hls/58/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",MTV
+http://37.27.111.214:8080/live/25/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",Nickelodeon
+http://37.27.111.214:8080/live/12/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",TV5MONDE
+http://37.27.111.214:8080/live/9/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",TVBSNEWS
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",TVBS
+http://37.27.111.214:8080/live/23/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",TVBS新闻
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8574/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",TVBS欢乐台
+http://37.27.111.214:8080/live/24/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",TiTV
+http://37.27.111.214:8080/live/2/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",hokkotv
+http://37.27.111.214:8080/live/1/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",momo
+http://37.27.111.214:8080/live/3/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",nhkworld
+http://61.221.215.25:8800/hls/51/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",nickjr
+http://37.27.111.214:8080/live/22/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",三立新闻
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",东森超视
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8525/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",中华小当家
+http://61.221.215.25:8800/hls/40/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",中视
+http://37.27.111.214:8080/live/7/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",互动英语
+http://37.27.111.214:8080/live/54/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",亚洲旅游
+http://37.27.111.214:8080/live/10/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",人间卫视
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",八大第1台
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",八大综合台
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",凤凰卫视
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",凤凰卫视
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",凤凰资讯
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",动画台
+http://37.27.111.214:8080/live/57/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",华视新闻
+http://37.27.111.214:8080/live/8/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",博斯无限
+http://37.27.111.214:8080/live/15/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",博斯运动1
+http://37.27.111.214:8080/live/14/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",博斯高球1
+http://37.27.111.214:8080/live/13/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",卫视西片
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8583/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",壹新闻
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",大立电视
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",天良综合台
+http://60.248.91.20:8000/main
+#EXTINF:-1 group-title="港台电视(IPV4)",年代新闻
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",幸福空间
+http://37.27.111.214:8080/live/26/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",探案台
+http://37.27.111.214:8080/live/11/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",东森新闻
+http://37.27.111.214:8080/live/20/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",民视
+http://37.27.111.214:8080/live/6/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",民视台湾
+http://37.27.111.214:8080/live/5/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",民视第一
+http://37.27.111.214:8080/live/4/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",猪哥亮
+http://37.27.111.214:8080/live/35/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",环宇新闻
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8547/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",环球电视
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",纬来日本
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8537/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",纬来精彩
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",纬来综合
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8518/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4)",美亚C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+
+
+
+
+#EXTM3U
+#EXTINF:-1 group-title="测试频道(IPV4)",香港 卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="测试频道(IPV4)",凤凰卫视
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 group-title="测试频道(IPV4)",凤凰资讯
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 group-title="测试频道(IPV4)",凤凰资讯
+http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+#EXTINF:-1 group-title="测试频道(IPV4)",翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 group-title="测试频道(IPV4)",TVB星河
+http://php.jdshipin.com:8880/smt.php?id=Xinhe
+#EXTINF:-1 group-title="测试频道(IPV4)",翡翠台
+http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
+#EXTINF:-1 group-title="测试频道(IPV4)",华丽翡翠
+http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
+#EXTINF:-1 group-title="测试频道(IPV4)",星河
+http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
+#EXTINF:-1 group-title="测试频道(IPV4)",千禧经典
+http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic
+#EXTINF:-1 group-title="测试频道(IPV4)",ASTRO AOD
+http://cdn9.1689.us.kg/smt1.1.php?id=Aodhd
+#EXTINF:-1 group-title="测试频道(IPV4)",ak 晴天电影台
+http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+#EXTINF:-1 group-title="测试频道(IPV4)",ak 中天亚洲台
+http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+#EXTINF:-1 group-title="测试频道(IPV4)",ak 三立综合
+http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+#EXTINF:-1 group-title="测试频道(IPV4)",ak 翡翠剧集台(北美)
+http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+#EXTINF:-1 group-title="测试频道(IPV4)",ak 无线新闻台(北美)
+http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
+#EXTINF:-1 group-title="测试频道(IPV4)",ak 明珠剧集台(北美)
+http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+#EXTINF:-1 group-title="测试频道(IPV4)",ak myTV SUPER 18台
+http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:-1 group-title="测试频道(IPV4)",ak TVB Plus
+http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1 group-title="测试频道(IPV4)",ak TVBS
+http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+#EXTINF:-1 group-title="测试频道(IPV4)",ak PopC
+http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+#EXTINF:-1 group-title="测试频道(IPV4)",ak 有线新闻
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+#EXTINF:-1 group-title="测试频道(IPV4)",ak TVB*无线新闻
+http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
+#EXTINF:-1 group-title="测试频道(IPV4)",无线华丽频道
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+#EXTINF:-1 group-title="测试频道(IPV4)",千禧经典频道
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+#EXTINF:-1 group-title="测试频道(IPV4)",Astr剧集频道
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
+#EXTINF:-1 group-title="测试频道(IPV4)",香港面包频道
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 group-title="测试频道(IPV4)",重温经典频道
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+#EXTINF:-1 group-title="测试频道(IPV4)",NHK新闻频英
+http://61.221.215.25:8800/hls/51/index.m3u8
+#EXTINF:-1 group-title="测试频道(IPV4)",tvbs闽南频特
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="测试频道(IPV4)",三立戏剧频特
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="测试频道(IPV4)",八大戏剧频特
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="测试频道(IPV4)",八大第一频特
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 group-title="测试频道(IPV4)",八大综合频特
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 group-title="测试频道(IPV4)",中天娱乐频特
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="测试频道(IPV4)",纬来精彩频特
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="测试频道(IPV4)",动物星球频国
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 group-title="测试频道(IPV4)",ASC搜索频英
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 group-title="测试频道(IPV4)",Diso综合频英
+http://61.221.215.25:8800/hls/1/index.m3u8
+#EXTINF:-1 group-title="测试频道(IPV4)",AMC电影台
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 group-title="测试频道(IPV4)",环球电视台
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 group-title="测试频道(IPV4)",耀才财经
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 group-title="测试频道(IPV4)",三立戏剧
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="测试频道(IPV4)",DaAi 1
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="测试频道(IPV4)",DaAi 2
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="测试频道(IPV4)",ANTV越南
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+#EXTINF:-1 group-title="测试频道(IPV4)",VIUTV
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
+#EXTINF:-1 group-title="测试频道(IPV4)",东森财经
+http://litv.zapi.us.kg/?id=4gtv-4gtv153
+#EXTINF:-1 group-title="测试频道(IPV4)",公视戏剧
+http://litv.zapi.us.kg/?id=4gtv-4gtv042
+#EXTINF:-1 group-title="测试频道(IPV4)",台湾Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 group-title="测试频道(IPV4)",民視台灣台
+http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
+
+
+
+#EXTM3U
+#EXTINF:-1 group-title="VIP频道1",点掌财经
+https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道1",凤凰卫视
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
+#EXTINF:-1 group-title="VIP频道1",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道1",凤凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="VIP频道1",凤凰中文台
+https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="VIP频道1",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8?
+#EXTINF:-1 group-title="VIP频道1",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="VIP频道1",凤凰资讯
+https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="VIP频道1",澳门莲花
+http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:-1 group-title="VIP频道1",大立电视台
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 group-title="VIP频道1",民视新闻 HD
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="VIP频道1",民视新闻 HD
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="VIP频道1",民视新闻 HD
+http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="VIP频道1",民视新闻 HD
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="VIP频道1",民视新闻 HD
+http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道1",台视新闻 HD
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="VIP频道1",台视新闻 HD
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="VIP频道1",台视新闻 HD
+http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="VIP频道1",台视新闻 HD
+http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道1",TVBS亞洲
+http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道1",TVBS亞洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 group-title="VIP频道1",TVBS亞洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="VIP频道1",东森超视34.5
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 group-title="VIP频道1",時尚台FTV
+http://80.94.54.42/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道1",時尚台FTV
+http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+#EXTINF:-1 group-title="VIP频道1",時尚台FTV
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+#EXTINF:-1 group-title="VIP频道1",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
+#EXTINF:-1 group-title="VIP频道1",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 group-title="VIP频道1",人间卫视
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道1",大爱1台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="VIP频道1",大爱1台
+https://pulltv2.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="VIP频道1",大爱2台
+https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="VIP频道1",大爱2台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="VIP频道1",人间卫视
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+#EXTINF:-1 group-title="VIP频道1",唯心電视
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 group-title="VIP频道1",唯心電视
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道1",台湾番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+#EXTINF:-1 group-title="VIP频道1",台湾番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+#EXTINF:-1 group-title="VIP频道1",台湾番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1 group-title="VIP频道1",香港卫视频道
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道1",香港卫视频道
+http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+#EXTINF:-1 group-title="VIP频道1",香港凤凰频道
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+#EXTINF:-1 group-title="VIP频道1",香港凤凰频道
+https://epg.pw/stream/b3ab43b2415df405226d5b25f38e51432ca7d32b5a240e0aa1f3e201d181442f.m3u8
+#EXTINF:-1 group-title="VIP频道1",香港33台高清
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+#EXTINF:-1 group-title="VIP频道1",香港35台高清
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+#EXTINF:-1 group-title="VIP频道1",耀才财经频道
+https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+#EXTINF:-1 group-title="VIP频道1",耀才财经频道
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道1",香港面包频道
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8?$官源
+#EXTINF:-1 group-title="VIP频道1",4k👉修复全网
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 group-title="VIP频道1",CCTV-4K
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道1",番薯
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+#EXTINF:-1 group-title="VIP频道1",香港面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 group-title="VIP频道1",星光视界
+http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+#EXTINF:-1 group-title="VIP频道1",澳门莲花
+http://php.jdshipin.com:8880/amlh.php
+#EXTINF:-1 group-title="VIP频道1",八大戏剧
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="VIP频道1",三立戏剧
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="VIP频道1",八大第一
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 group-title="VIP频道1",八大综合
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 group-title="VIP频道1",八大综合
+http://mywlkj.ddns.net:754/tv/tw3.php?id=14
+#EXTINF:-1 group-title="VIP频道1",TVBS
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="VIP频道1",TVBS新闻
+http://194.87.101.118/live.m3u8?c=5
+#EXTINF:-1 group-title="VIP频道1",TVBS亚洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="VIP频道1",无线财经
+http://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
+#EXTINF:-1 group-title="VIP频道1",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 group-title="VIP频道1",香港佛陀
+https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道1",香港面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 group-title="VIP频道1",唯心电视
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 group-title="VIP频道1",星光视界
+http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+#EXTINF:-1 group-title="VIP频道1",AMC电影台
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 group-title="VIP频道1",中華小當家
+http://61.221.215.25:8800/hls/40/index.m3u8
+#EXTINF:-1 group-title="VIP频道1",日本新闻世界
+http://61.221.215.25:8800/hls/51/index.m3u8
+#EXTINF:-1 group-title="VIP频道1",点掌财经
+https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道1",香港 卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道1",TVB无线新闻台
+http://zsntlqj.xicp.net:8896/bysid/83
+#EXTINF:-1 group-title="VIP频道1",星河频道
+https://epg.pw/stream/180e5ec54c87920bfe91fae3b1febba13c6fe5b44045941a281f1104c992a925.m3u8
+#EXTINF:-1 group-title="VIP频道1",功夫台
+https://epg.pw/stream/ae7ae839911a5250ce264da233b3af364f8fd6d37fce0eb36e7131a1adc1aca0.m3u8
+#EXTINF:-1 group-title="VIP频道1",娱乐新闻台
+https://epg.pw/stream/b3b65ea63164e1a7818216f985f33ad1f4a1be264a8661e97baf145e231645db.m3u8
+#EXTINF:-1 group-title="VIP频道1",TVB娛樂新聞
+https://epg.pw/stream/57737ed82a70288e90bca3ef3b9e7ed3e8b896445947908bd76d4ed3c4ba6c43.m3u8
+#EXTINF:-1 group-title="VIP频道1",Now TV
+https://epg.pw/stream/81ec9764658d2129309abc59a41c69de1b6b50e66ca984d1c04e8bed7f5b448e.m3u8
+#EXTINF:-1 group-title="VIP频道1",Now TV
+https://epg.pw/stream/d102b4ec7480bb04df22c7ee49b64d33408cd566f9f3245db56bf898a8a85a21.m3u8
+#EXTINF:-1 group-title="VIP频道1",香港衛視
+https://epg.pw/stream/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv
+#EXTINF:-1 group-title="VIP频道1",香港衛視
+https://epg.pw/stream/c751876ae5ceaa0d82b5cf2badc152342aa92a4b45bf504d12ee45966b2fc644.ctv
+#EXTINF:-1 group-title="VIP频道1",鳳凰香港
+https://epg.pw/stream/e04b14233c7014451fd340e1c5d0cc6a7a47937fa22d135f61caa76777602bad.m3u8
+#EXTINF:-1 group-title="VIP频道1",鳳凰香港
+https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
+#EXTINF:-1 group-title="VIP频道1",環球電視臺
+https://epg.pw/stream/871627cefa0727603ae38287f349e796402982c186ea32bea812ef9d764c5923.m3u8
+#EXTINF:-1 group-title="VIP频道1",耀才財經臺
+https://epg.pw/stream/dd22b2b5f1c65e8294658a1d7732d747d14e6e4e8438f8fd30f90ca318063d3d.m3u8
+#EXTINF:-1 group-title="VIP频道1",耀才財經臺
+https://epg.pw/stream/80569330bb5aeb8688d1c55d643ba04008ed5f9313f1f012688a559d1379bb8d.m3u8
+#EXTINF:-1 group-title="VIP频道1",耀才財經臺
+https://epg.pw/stream/89eef7f40ece15ce35ecb80e3fd18ebd67bf74d927337c8cc66fdca919d0f83b.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",TVB无线新闻台
+http://zsntlqj.xicp.net:8896/bysid/83
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",香港34台全网
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",港台RTHK33HD
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",港台RTHK34HD
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",凤凰资讯
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",HOY77
+http://111.230.195.119:80/香蕉哥/hoy77/hls.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",HOY78
+http://111.230.195.119:80/香蕉哥/hoy78/hls.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",TVB翡翠
+http://111.230.195.119:80/香蕉哥/tvb/hls.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",TVB无线新闻台
+http://zsntlqj.xicp.net:8896/bysid/83
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",香港卫视
+http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",香港34台全网
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",港台RTHK33HD
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",八大綜合
+https://epg.pw/stream/e7df67a1a8400d4741889391ccc7e8a2b3f623a4f19544ae0863ae2c184bbe2c.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",東森超視
+rtmp://220.130.201.73/sat/tv331
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",東森超視
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",華視
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",台視新聞
+https://epg.pw/stream/9c01d60667916853d9729b3f653cadc718828c7976a0844bcbeb1f90d6e25212.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",台視新聞
+https://epg.pw/stream/44b15ebca92df287ed0eed88fef12d6bce71b47c12f848691d7c603caeb5f85b.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",大立電視臺
+https://epg.pw/stream/5089e07a3319b33160e486ab9c09540d8ad763339474f9c41ba8062333504b0d.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",華視新聞
+https://epg.pw/stream/560cc8d5097ea791bd6be2760537cd741bec683cd053cd3843a720b0a83d750b.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",華視新聞
+https://epg.pw/stream/f8b99b257bf091cd576d53c47b1ec64ce1dd4c56bac0098eda9068300ea86afe.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",鏡新聞
+https://epg.pw/stream/d0dbeb20fa9ca52ba2779ffabf00eb93f77f91b93120457bb687de3ba00ad1e2.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",大愛
+https://epg.pw/stream/634d66848d8e5fe80d4fb498f3de9e0a841cad38d5e9a12d8e1b4a807a7f5857.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",大愛2
+https://epg.pw/stream/2b383d639b6b2eade22f2d085141a38ae48a98f24b8a06f485e23f7211bbf909.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",大愛2
+https://epg.pw/stream/60efaf070c91949a4c4e52c9d35746ebfb99b5318b43115c15205965c5807948.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",东森美洲卫视
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",民视新闻台
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",台视新闻
+http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",民视新闻
+http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",东森新闻美国
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",台湾民视
+http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",台视新闻
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",三立戏剧
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",大爱一台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",大爱二台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",大爱二台
+https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",大立电视
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",东森美洲2
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",东森美洲2
+http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",半岛新闻台
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",东森超视
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",东森美洲
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",东森美洲2
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",东森美洲2
+http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",台视新闻
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",台视新闻
+http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",民视新闻
+http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",民视新闻
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",生命电视台
+http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",香港佛陀
+http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",大爱
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",佛陀教育
+http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",人间卫视
+http://dfkj.live/index.m3u8?user=r5p38&channel=taiwanTV&id=3799
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",环球电视
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",泰国ASTV
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",朝鲜新闻
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",韩国新闻
+http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",日本新闻
+https://n24-cdn-live.ntv.co.jp:443/ch01/high.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",日本新闻
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",半岛新闻
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",法国时尚
+http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",半岛新闻
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",CGTN记录
+https://livedoc.cgtn.com/500d/prog_index.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",CGTN俄语
+https://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",CGTN法语
+https://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",CGTN西语
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",CGTN阿语
+https://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",CGTN俄语
+http://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",CGTN
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",韩·EBS-2
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",韩·EBS-2
+http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",韩·JobPlusTV
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",韩·EBS-1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",韩·EBS2
+http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",韩·EBSe
+http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",韩·EBS1
+http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",韩·KBSWorld
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",韩·TBS
+https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",韩·GSMyShop
+https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",韩·KoreaTV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",韩·SBS
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",韩·NBS
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",韩国-KCTV
+http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",俄·IGITV
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",Самара
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",美·NASA1
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",希·FoxTV
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",越·ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",越·HBTV
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",KCTV 광주
+http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",KBS World
+https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",KBS World
+https://livecdn.fptplay.net:443/sdb/kbs_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",TBS Seoul
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",半岛新闻
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",环球电视
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",欧洲华文教育
+http://hatu-video.oss-cn-hangzhou.aliyuncs.com/live-stream/20111114W.m3u8
+#EXTINF:-1 group-title="VIP频道1",https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8",欧洲华文8套
+https://livefr.cgtn.com/1000f/prog_index.m3u8
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 group-title="VIP频道2",KBS世界
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道2",KBS世界
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VIP频道2",阿里郎
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道2",KBS1
+https://code.vthanhtivi.pw/getlink/kbs/60_11/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道2",NHK世界
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 group-title="VIP频道2",NTVNews24
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 group-title="VIP频道2",NHKWorldPremium
+https://cdn1.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 group-title="VIP频道2",ShopChannel
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:-1 group-title="VIP频道2",NHKBS1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="VIP频道2",NHKBSプレミアム
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="VIP频道2",BS日テレ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="VIP频道2",BS朝日
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="VIP频道2",BS-TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="VIP频道2",BSテレ東
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="VIP频道2",BSフジ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="VIP频道2",WOWOWプライム
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="VIP频道2",WOWOWライブ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="VIP频道2",WOWOWシネマ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="VIP频道2",スターチャンネル1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="VIP频道2",BSアニマックス
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="VIP频道2",JSports1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="VIP频道2",JSports2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="VIP频道2",JSports3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="VIP频道2",JSports4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title=""VIP频道2",ch\"tvg-logo=\"https://i.imgur.com/vMtPnYi.png\"group-title=\"BS",BSアニマックス
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="VIP频道2",ch\"tvg-logo=\"https://i.imgur.com/vMtPnYi.png\"group-title=\"BS",BSテレ东
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="VIP频道2",ch\"tvg-logo=\"https://i.imgur.com/vMtPnYi.png\"group-title=\"BS",GAORA
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="VIP频道2",ch\"tvg-logo=\"https://i.imgur.com/vMtPnYi.png\"group-title=\"BS",JSPORTS1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="VIP频道2",ch\"tvg-logo=\"https://i.imgur.com/vMtPnYi.png\"group-title=\"BS",JSPORTS2
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="VIP频道2",ch\"tvg-logo=\"https://i.imgur.com/vMtPnYi.png\"group-title=\"BS",JSPORTS3
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="VIP频道2",ch\"tvg-logo=\"https://i.imgur.com/vMtPnYi.png\"group-title=\"BS",JSPORTS4
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="VIP频道2",ch\"tvg-logo=\"https://i.imgur.com/vMtPnYi.png\"group-title=\"BS",LaLaTV
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="VIP频道2",ch\"tvg-logo=\"https://i.imgur.com/vMtPnYi.png\"group-title=\"BS",MusicONTV!
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="VIP频道2",ch\"tvg-logo=\"https://i.imgur.com/vMtPnYi.png\"group-title=\"BS",NHKBS1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="VIP频道2",ch\"tvg-logo=\"https://i.imgur.com/vMtPnYi.png\"group-title=\"BS",NHK教育
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="VIP频道2",ch\"tvg-logo=\"https://i.imgur.com/vMtPnYi.png\"group-title=\"BS",NHK総合
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="VIP频道2",ch\"tvg-logo=\"https://i.imgur.com/vMtPnYi.png\"group-title=\"BS",WOWOWシネマ
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="VIP频道2",ch\"tvg-logo=\"https://i.imgur.com/vMtPnYi.png\"group-title=\"BS",WOWOWプライム
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="VIP频道2",ch\"tvg-logo=\"https://i.imgur.com/vMtPnYi.png\"group-title=\"BS",WOWOWライブ
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="VIP频道2",ch\"tvg-logo=\"https://i.imgur.com/vMtPnYi.png\"group-title=\"BS",キッズステーション[1024*576[1024*5
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="VIP频道2",ch\"tvg-logo=\"https://i.imgur.com/vMtPnYi.png\"group-title=\"BS",ゴルフネットワーク
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="VIP频道2",ch\"tvg-logo=\"https://i.imgur.com/vMtPnYi.png\"group-title=\"BS",スーパー!ドラマTV
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="VIP频道2",ch\"tvg-logo=\"https://i.imgur.com/vMtPnYi.png\"group-title=\"BS",スカイA
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="VIP频道2",ch\"tvg-logo=\"https://i.imgur.com/vMtPnYi.png\"group-title=\"BS",スターチャンネル1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="VIP频道2",ch\"tvg-logo=\"https://i.imgur.com/vMtPnYi.png\"group-title=\"BS",スターチャンネル2
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="VIP频道2",ch\"tvg-logo=\"https://i.imgur.com/vMtPnYi.png\"group-title=\"BS",スターチャンネル3
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="VIP频道2",ch\"tvg-logo=\"https://i.imgur.com/vMtPnYi.png\"group-title=\"BS",チャンネル银河
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="VIP频道2",ch\"tvg-logo=\"https://i.imgur.com/vMtPnYi.png\"group-title=\"BS",テレビ朝日
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="VIP频道2",ch\"tvg-logo=\"https://i.imgur.com/vMtPnYi.png\"group-title=\"BS",テレビ东京
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="VIP频道2",ch\"tvg-logo=\"https://i.imgur.com/vMtPnYi.png\"group-title=\"BS",ファミリー剧场
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="VIP频道2",http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/9103/index.m3u8",req
+https://streaming101.goodstream.cyou/live/748-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="VIP频道2",http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/9103/index.m3u8",ПриключенияHD
+http://cdn.klimedia.space/lb/HD_Teletr/index.m3u8?token=klimedia.space:a2RzYWdmeTlhNjprZHNhZ2Z5OWE2
+#EXTINF:-1 group-title="VIP频道2",http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/9103/index.m3u8",РусскаяКомедия
+http://aa7bc0b4.akadatel.com/iptv/ED8DTMPASXMV7Q/733/index.m3u8
+#EXTINF:-1 group-title="VIP频道2",http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/9103/index.m3u8",MMHoneyHD
+http://aa7bc0b4.akadatel.com/iptv/ED8DTMPASXMV7Q/13026/index.m3u8
+#EXTINF:-1 group-title="VIP频道2",http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/9103/index.m3u8",РусскаяКомедия
+http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/733/index.m3u8
+#EXTINF:-1 group-title="VIP频道2",http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/9103/index.m3u8",БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道2",http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/9103/index.m3u8",Вместе-РФHD
+http://vmesterf.bonus-tv.ru/cdn/vmesterf/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="VIP频道2",http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/9103/index.m3u8",Енисей
+http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道2",http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/9103/index.m3u8",КТК
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道2",http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/9103/index.m3u8",РБКТВ
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 group-title="VIP频道2",http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/9103/index.m3u8",ZEENEWS
+https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+#EXTINF:-1 group-title="VIP频道2",http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/9103/index.m3u8",bollywood
+https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
+#EXTINF:-1 group-title="VIP频道2",http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/9103/index.m3u8",EpicTv
+https://epiconvh.s.llnwi.net/epic/master.m3u8
+#EXTINF:-1 group-title="VIP频道2",http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/9103/index.m3u8",Nazara
+https://epiconvh.s.llnwi.net/nazara/master_480.m3u8
+#EXTINF:-1 group-title="VIP频道2",http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/9103/index.m3u8",DDNational
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
+#EXTINF:-1 group-title="VIP频道2",http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/9103/index.m3u8",ZEEHINDUSTAN
+https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
+#EXTINF:-1 group-title="VIP频道2",http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/9103/index.m3u8",TV9BHARATVARSH
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="VIP频道2",http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/9103/index.m3u8",ColorsHD
+http://119.156.26.155:8000/play/a06w
+#EXTINF:-1 group-title="VIP频道2",http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test",colorsINFINITYHD
+http://119.156.26.155:8000/play/a07h
+#EXTINF:-1 group-title="VIP频道2",http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test",PRIVEHD
+http://119.156.26.155:8000/play/a07j
+#EXTINF:-1 group-title="VIP频道2",http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test",flixHD
+http://119.156.26.155:8000/play/a06x
+#EXTINF:-1 group-title="VIP频道2",http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test",ZEEBOLLYWOOD
+http://119.156.26.155:8000/play/a07q
+#EXTINF:-1 group-title="VIP频道2",http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test",UTVACTION
+http://119.156.26.155:8000/play/a07o
+#EXTINF:-1 group-title="VIP频道2",http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test",UTVMOVIES
+http://119.156.26.155:8000/play/a07n
+#EXTINF:-1 group-title="VIP频道2",http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test",StarPlusHD
+http://119.156.26.155:8000/play/a06u
+#EXTINF:-1 group-title="VIP频道2",http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test",SONYMAX2
+http://119.156.26.155:8000/play/a07r
+#EXTINF:-1 group-title="VIP频道2",http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test",Pogo
+http://119.156.26.155:8000/play/a05z
+#EXTINF:-1 group-title="VIP频道2",http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test",MOVIENOW
+http://119.156.26.155:8000/play/a066
+#EXTINF:-1 group-title="VIP频道2",http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test",BTV
+http://118.107.85.4:1935/live/smil:BTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道2",http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test",KienGiangTV
+http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+#EXTINF:-1 group-title="VIP频道2",http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test",VOVTV
+https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道2",http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test",FreshNews
+http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道2",http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test",TVBThai
+https://n-edge-1-th.v2h-cdn.com/tvb_m/tvb_thai/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道2",http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test",TVBThai
+https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8?
+#EXTINF:-1 group-title="VIP频道2",http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test",มังกร
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道2",http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test",MVLAO
+https://edge6a.v2h-cdn.com/mvlao/mvlao.stream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道2",https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8",TVBThai
+https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist_w68863317.m3u8
+#EXTINF:-1 group-title="VIP频道2",https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8",TRT1
+https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
+
+
+
+
+#EXTM3U
+#EXTINF:-1 group-title="VIP频道3",AlbKanale Music TV Ⓢ
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 group-title="VIP频道3",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 group-title="VIP频道3",News 24 Ⓢ
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 group-title="VIP频道3",Panorama TV Ⓢ
+http://198.244.188.94/panorama/livestream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 group-title="VIP频道3",Syri
+https://stream.syritv.al/SyriTV/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tropoja
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Vizion Plus
+https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
+#EXTINF:-1 group-title="VIP频道3",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",TV Universidad
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+#EXTINF:-1 group-title="VIP频道3",RTV
+http://iptv.rtv-ooe.at/stream.m3u8
+#EXTINF:-1 group-title="VIP频道3",Baku TV
+https://rtmp.baku.tv/live/bakutv_720p.m3u8
+#EXTINF:-1 group-title="VIP频道3",CBC
+https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
+#EXTINF:-1 group-title="VIP频道3",Mədəniyyət TV Ⓢ
+https://str.yodacdn.net/medeniyyet/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",MTV Azerbaijan Ⓢ
+https://www.tvkaista.net/stream-forwarder/get.php?x=MTVAzerbaijan
+#EXTINF:-1 group-title="VIP频道3",Беларусь 1
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Беларусь 2
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Беларусь 3
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",ОНТ Ⓢ
+https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Беларусь 5
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",СТВ
+https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Беларусь 24
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Беларусь 5 Интернет
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",1Mus
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 group-title="VIP频道3",8 Kanal Vitebsk Ⓢ
+http://95.46.208.8:24433/art
+#EXTINF:-1 group-title="VIP频道3",Belros Ⓢ
+https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Radio HIT Orsk
+http://hithd.camsh.orsk.ru/hls/hithd.m3u8
+#EXTINF:-1 group-title="VIP频道3",RTV Glas Drine
+http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Fora Tedio TV
+http://stream.foratedio.com/foratedio/foratedio/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",City TV Ⓢ
+https://tv.city.bg/play/tshls/citytv/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",TV1
+https://tv1.cloudcdn.bg/temp/livestream.m3u8
+#EXTINF:-1 group-title="VIP频道3",CPAC (EN)
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+#EXTINF:-1 group-title="VIP频道3",Toronto 360 TV
+http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Télé Tchad Ⓢ
+https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",TV+ Ⓖ
+https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
+#EXTINF:-1 group-title="VIP频道3",TVN 3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:-1 group-title="VIP频道3",BRT 1
+https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",BRT 2
+https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Ada TV Ⓢ
+https://sc-kuzeykibrissmarttv.ercdn.net/adatv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Kıbrıs Genç TV Ⓢ
+https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Kanal T Ⓢ
+https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Kıbrıs TV Ⓢ
+https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",TV 2020 Ⓢ
+https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Prima Krimi Ⓖ
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_krimi/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 group-title="VIP频道3",Prima MAX Ⓖ
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_max/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 group-title="VIP频道3",Óčko Ⓢ
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Óčko Star Ⓢ
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Retro Music Television Ⓢ
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Praha TV
+https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Folketinget TV
+https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 group-title="VIP频道3",TV Storbyen
+https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Kanal Hovedstaden
+http://khkbh.dk:8080/hls/livestream/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",ETV Ⓖ
+http://sb.err.ee/live/etv.m3u8
+#EXTINF:-1 group-title="VIP频道3",ETV2 Ⓖ
+http://sb.err.ee/live/etv2.m3u8
+#EXTINF:-1 group-title="VIP频道3",ETV+ Ⓖ
+http://sb.err.ee/live/etvpluss.m3u8
+#EXTINF:-1 group-title="VIP频道3",Life TV Estonia
+https://lifetv.bitflip.ee/live/stream2.m3u8
+#EXTINF:-1 group-title="VIP频道3",Life TV Europe
+https://lifetv.bitflip.ee/live/stream1.m3u8
+#EXTINF:-1 group-title="VIP频道3",TBN Baltia
+http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
+#EXTINF:-1 group-title="VIP频道3",Nelonen
+https://live-fi.tvkaista.net/nelonen/live.m3u8?src=freetv
+#EXTINF:-1 group-title="VIP频道3",MTV Sub
+https://live-fi.tvkaista.net/sub/live.m3u8?src=freetv
+#EXTINF:-1 group-title="VIP频道3",TV5 Finland
+https://live-fi.tvkaista.net/tv5/live.m3u8?src=freetv
+#EXTINF:-1 group-title="VIP频道3",Kutonen
+https://live-fi.tvkaista.net/kutonen/live.m3u8?src=freetv
+#EXTINF:-1 group-title="VIP频道3",TLC Finland
+https://live-fi.tvkaista.net/tlc/live.m3u8?src=freetv
+#EXTINF:-1 group-title="VIP频道3",MTV Ava
+https://live-fi.tvkaista.net/ava/live.m3u8?src=freetv
+#EXTINF:-1 group-title="VIP频道3",Frii
+https://live-fi.tvkaista.net/frii/live.m3u8?src=freetv
+#EXTINF:-1 group-title="VIP频道3",National Geographic Finland
+https://live-fi.tvkaista.net/national-geographic/live.m3u8?src=freetv
+#EXTINF:-1 group-title="VIP频道3",Nopola News
+https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",När-TV Ⓢ
+https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",YleX Studio Live
+https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8
+#EXTINF:-1 group-title="VIP频道3",Arte Ⓖ
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",LCP
+https://lcp.fr/le-live-lcp-tnt-5433
+#EXTINF:-1 group-title="VIP频道3",Public Sénat
+https://www.publicsenat.fr/direct
+#EXTINF:-1 group-title="VIP频道3",CGTN Français
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1 group-title="VIP频道3",RT France Ⓖ
+https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Imedi TV
+https://tv.cdn.xsg.ge/imedihd/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",BR Nord Ⓖ
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:-1 group-title="VIP频道3",BR Süd Ⓖ
+https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1 group-title="VIP频道3",HR Ⓖ
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
+#EXTINF:-1 group-title="VIP频道3",SR Ⓖ
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",WDR Ⓖ
+https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
+#EXTINF:-1 group-title="VIP频道3",DW Deutsch
+https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",NDR International
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",Peer TV Südtirol
+https://iptv.peer.biz/live/peertv.m3u8
+#EXTINF:-1 group-title="VIP频道3",AlphaTV
+https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
+#EXTINF:-1 group-title="VIP频道3",Skai TV
+https://skai-live.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",Open TV
+https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Kontra
+http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Hír TV
+https://onlinestream.live/play.m3u?id=4740&ext=.m3u
+#EXTINF:-1 group-title="VIP频道3",TV7 Bekescsaba
+https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
+#EXTINF:-1 group-title="VIP频道3",Hegyvidék TV
+https://tv.hegyvidek.hu/hvtv/hvstream.m3u8
+#EXTINF:-1 group-title="VIP频道3",16TV
+https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Lóverseny közvetítés
+https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Zalaegerszeg TV
+https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Oroszlányi Városi Televízió
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",ABP News
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
+#EXTINF:-1 group-title="VIP频道3",Al-Alam News Network Ⓢ
+https://live2.alalam.ir/alalam.m3u8
+#EXTINF:-1 group-title="VIP频道3",Al-Iraqiya
+https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",TG4
+https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
+#EXTINF:-1 group-title="VIP频道3",Houses of the Oireachtas Channel
+https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
+#EXTINF:-1 group-title="VIP频道3",כא11
+https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+#EXTINF:-1 group-title="VIP频道3",ערוץ 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",33
+https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
+#EXTINF:-1 group-title="VIP频道3",כאן חינוכית
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+#EXTINF:-1 group-title="VIP频道3",Rai 4 Ⓖ
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="VIP频道3",Rai 5 Ⓖ
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="VIP频道3",Rai Movie Ⓖ
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="VIP频道3",Rai Premium Ⓖ
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="VIP频道3",TV 2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+#EXTINF:-1 group-title="VIP频道3",La7d
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
+#EXTINF:-1 group-title="VIP频道3",QVC
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+#EXTINF:-1 group-title="VIP频道3",Motor Trend
+https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Sportitalia Plus
+https://sportitaliaamd.akamaized.net/live/Sportitalia/hls/F59D8EB0332E783633CDDE8E265844975635D24F/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",Travel TV
+https://traveltv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+#EXTINF:-1 group-title="VIP频道3",Donna TV Ⓢ
+https://donnatv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+#EXTINF:-1 group-title="VIP频道3",SuperTennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
+#EXTINF:-1 group-title="VIP频道3",Alma TV
+https://almatv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+#EXTINF:-1 group-title="VIP频道3",Radio 105 TV Ⓖ
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",R101 TV Ⓖ
+https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",Deejay TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",RadioItaliaTV
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+#EXTINF:-1 group-title="VIP频道3",Radio KISS KISS TV
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Rai Radio 2 Visual Radio
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="VIP频道3",RTL 102.5 News
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+#EXTINF:-1 group-title="VIP频道3",RadioFreccia
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+#EXTINF:-1 group-title="VIP频道3",RDS Social TV
+https://stream.rdstv.radio/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",Radio ZETA
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+#EXTINF:-1 group-title="VIP频道3",Radio TV Serie A con RDS
+https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",Gold TV Sat
+https://goldsattv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+#EXTINF:-1 group-title="VIP频道3",Sportitalia SOLOCALCIO
+https://sportitaliaamd.akamaized.net/live/Sportitalia/hls/6197F24C2DDD359567D902082C9347C25BC98852/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",BIKE
+https://66286fdeb96da.streamlock.net/BikeChannel/Bikechannel/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Radio Montecarlo TV Ⓖ
+https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",Virgin Radio TV Ⓖ
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",Senato TV
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Camera dei Deputati Ⓢ
+https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",UniNettuno University TV Ⓖ
+https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",111 Tv
+https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",12 Tv Parma
+https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",4 You Tv
+https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
+#EXTINF:-1 group-title="VIP频道3",Alpauno
+https://5f22d76e220e1.streamlock.net/alpaunotv/alpaunotv/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Alto Adige Tv
+https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Antenna 2 Bergamo
+https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Antenna 3 Massa
+https://media2021.rtvweb.com/antenna3massa/a3/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Antenna 3 Veneto Nord Est
+https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Antenna Sud
+https://live.antennasudwebtv.it:9443/hls/vod.m3u8
+#EXTINF:-1 group-title="VIP频道3",Antenna Sud Extra
+https://live.antennasudwebtv.it:9443/hls/vod92.m3u8
+#EXTINF:-1 group-title="VIP频道3",Aristanis SuperTv
+https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Arte Network Orler
+https://tsw.streamingwebtv24.it:1936/artenetwork/artenetwork/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Aurora Arte
+https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Azzurra Tv Vco
+https://59d7d6f47d7fc.streamlock.net/azzurratv/azzurratv/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",BOM Channel
+https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",ByoBlu
+https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Cafe Tv 24
+https://srvx1.selftv.video/cafe/live/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Calabria Uno Tv
+https://635320cd397eb.streamlock.net/live/ngrp:calabriaunolive_all/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Canale 10
+https://nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Canale 2
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Canale 21
+https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Canale 21 Extra
+https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Canale 7
+http://wms.shared.streamshow.it:80/canale7/canale7/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Canale 8 Campania
+https://59d7d6f47d7fc.streamlock.net/canale8/canale8/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Canale Italia
+https://ovp-live.akamaized.net/ac115_live/canale1.smil/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Carina Tv
+https://samson.streamerr.co:8081/carinatv/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",Casa Italia 53
+https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Casa Sanremo Tv
+https://router.xdevel.com/video0s975911-633/stream/playlist_dvr.m3u8
+#EXTINF:-1 group-title="VIP频道3",Castrovillari Tv
+http://msh0062.stream.seeweb.it/live/flv:stream00.sdp/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Cittaceleste Tv
+https://sportitaliaamd.akamaized.net/live/Cittaceleste/hls/A990687F506536598442FC5CD12C97CB78873FBA/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",Company Tv
+https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Cremona 1
+https://cdn2.streamshow.it/cloud-cremona1/cremona1/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Cusano Italia Tv
+https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Cusano News 7
+https://router.xdevel.com/video1s975363-1596/stream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Delta Tv
+http://hbbtv-server.zivoli.it:8080/hls/deltatv/deltatv/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",Deluxe 139
+https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Di.Tv 80
+https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Digital Tv7 Benevento
+http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Donna Shopping Tv
+https://5f22d76e220e1.streamlock.net/fascinotv/fascinotv/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",E\\\'live Brescia Tv
+https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Easy Tv Canale 190
+https://diretta.arcapuglia.it:8080/live/easytv/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",Entella Tv
+https://5f22d76e220e1.streamlock.net:443/EntellaTV/EntellaTV/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Espansione Tv
+https://srvx1.selftv.video/espansione/smil:live.smil/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Esperia Tv
+https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",è Tv Marche
+https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",è Tv Rete7
+https://live.ipstream.it/etv/etv.stream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",è Tv Umbria
+https://live.ipstream.it/etvumbria/etvumbria.stream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Euro Tv
+https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Extra Tv
+https://rst2.saiuzwebnetwork.it:8081/extratvlive/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",FM Tv Marche
+https://bbtv.intvstream.net:3988/hybrid/play.m3u8
+#EXTINF:-1 group-title="VIP频道3",Fano Tv
+https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",Fascino Tv
+https://5f22d76e220e1.streamlock.net/canale157/canale157/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",GRP Televisione
+https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5.m3u8
+#EXTINF:-1 group-title="VIP频道3",GarganoTv
+https://cdn80-ger.azotosolutions.com:8443/cdnedge3/smil:live3.smil/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Giornale Radio Tv
+https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Giovanni Paolo Tv
+https://media2021.rtvweb.com/giovannipaolotv/web/chunklist_w663456797.m3u8
+#EXTINF:-1 group-title="VIP频道3",Globus Television
+https://cdn.cubws.com/live/globus.m3u8
+#EXTINF:-1 group-title="VIP频道3",Gold Tv
+https://goldtv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+#EXTINF:-1 group-title="VIP频道3",GO-TV Channel
+https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",GS Channel
+https://rst.saiuzwebnetwork.it:8081/retereggio/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",Icaro Tv Rimini
+https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Idea Plus
+https://rst.saiuzwebnetwork.it:19360/teleidea/teleidea.m3u8
+#EXTINF:-1 group-title="VIP频道3",Italia 2 Tv
+https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Italia 7
+https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Italia Channel
+https://stream1.aswifi.it/italiachannel/stream/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",Iunior Tv
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",L\\\'Altro Corriere Tv
+https://stream.cp.ets-sistemi.it:1936/laltrocorriere-tv/laltrocorriere-tv/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",La Nuova Tv
+https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",La tr3 Marsala
+https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",LaC News 24
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",LaC Tv Calabria
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Lab Tv
+https://customer-yzibk50951uq418a.cloudflarestream.com/a58893dee4b9922a75e41b4ec4243f84/manifest/video.m3u8
+#EXTINF:-1 group-title="VIP频道3",Lazio Tv
+https://laziotv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+#EXTINF:-1 group-title="VIP频道3",Lira Tv
+https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Lombardia Tv
+https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Love in Venice
+http://59d7d6f47d7fc.streamlock.net/loveinvenice/loveinvenice/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Lucania Tv
+https://cdn15.streamshow.it/cloud-lucaniatv/lucaniatv/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Made in BO
+https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Maria Vision
+https://1601580044.rsc.cdn77.org/live/_jcn_/amls:CHANNEL_2/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Mediterranea Tv
+https://stream1.aswifi.it/mediterraneatv/live/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",Medjugorje Italia Tv
+https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Medjugorje Tv Puglia
+https://diretta.arcapuglia.it:8080/live/medjugorietv/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",Minformo Tv
+https://5db313b643fd8.streamlock.net:443/MinformoTV/MinformoTV/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Motori Tv
+https://5f22d76e220e1.streamlock.net/servizio01/servizio01/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",NTI Canale 271
+https://www.ntimedia.it/video/S0B/S0B_master.m3u8
+#EXTINF:-1 group-title="VIP频道3",Nuova TV Nazionale
+https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Nuova Tv 1
+https://nuovatv.net:8443/tv/stream.m3u8
+#EXTINF:-1 group-title="VIP频道3",Nuova Tv 2
+https://nuovatv.net:8443/tv2/stream.m3u8
+#EXTINF:-1 group-title="VIP频道3",Nuvola Tv
+https://stream.nuvola.tv:8181/memfs/4aaa6328-1879-4ebf-b18a-498146d0c61c.m3u8
+#EXTINF:-1 group-title="VIP频道3",Onda Novara Tv
+https://585b674743bbb.streamlock.net/9006/9006/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Onda Tv Sicilia
+https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Onda Web Radio
+http://178.33.224.197:1935/ondaradioweb/ondaradioweb/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Ora Tv
+https://5db313b643fd8.streamlock.net/OraTv/OraTv/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Orler Tv
+https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Otto Channel
+https://ottop-live-meride.akamaized.net/hls/live/2039996/ch1/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Padre Pio Tv
+https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Parole di Vita
+https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Peer Tv Alto Adige
+https://iptv.peer.biz/live/peertv-it.m3u8
+#EXTINF:-1 group-title="VIP频道3",Prima Tv Napoli
+https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Prima Tv Sicilia
+https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",PrimaFREE
+https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Primantenna Torino
+https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Primocanale
+https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Promovideo Tv
+https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Quarto Canale Flegreo
+http://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Radio 51 Tv
+https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w1193883900.m3u8
+#EXTINF:-1 group-title="VIP频道3",Radio Birikina Tv
+https://tvd-bk.fluid.stream/RadioBirikinaTV/livestream/chunklist_w84398277.m3u8
+#EXTINF:-1 group-title="VIP频道3",Radio Bruno Tv
+https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Radio Ibiza
+https://str48.fluid.stream/RadioIbizaTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Radio Immagine Tv
+https://media.velcom.it:8081/RadioImmagineTV/index.fmp4.m3u8
+#EXTINF:-1 group-title="VIP频道3",Radio Italia Cina Tv
+https://585b674743bbb.streamlock.net/9054/9054/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Radio Libertà
+https://router.xdevel.com/video0s975360-67/stream/playlist_dvr.m3u8
+#EXTINF:-1 group-title="VIP频道3",Radio m2o Tv
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Radio Monte Kronio Tv (R.M.K.)
+https://648026e87a75e.streamlock.net/rmktv/rmktv/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Radio Norba Tv
+https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
+#EXTINF:-1 group-title="VIP频道3",Radio Piter Pan Tv
+https://tvd-piter.fluid.stream/RadioPiterpanTV/livestream/chunklist_w1866496033.m3u8
+#EXTINF:-1 group-title="VIP频道3",Radio Radiosa Tv
+https://stream7.zivoli.it/radiosatv/radiosatv/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Radio Roma
+https://585b674743bbb.streamlock.net/9044/9044/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Radio Roma Television
+https://5926fc9c7c5b2.streamlock.net/rtfeunawfu/rtfeunawfu/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Ran Friul
+https://5f22d76e220e1.streamlock.net/RanFriul/RanFriul/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Reggio Tv
+https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Rei Tv
+https://5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Rete 55
+https://live1.giocabet.tv/stream/6/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",Rete 8 Vga
+https://604e46ac2bdee.streamlock.net:1936/rete8_1/rete8_1/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Rete 8
+https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Rete 8 Sport
+https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Rete Biella Tv
+https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Rete Mia
+https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Rete Oro Tv
+https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Rete Tv Italia
+https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Rete Veneta
+http://wms.shared.streamshow.it/reteveneta/reteveneta/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Roma Tv 82
+https://streaming.softwarecreation.it/RomaCH71/RomaCH71/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Rossini Tv
+https://stream.rossinitv.it/memfs/3bca4ad7-adfc-4610-ac0e-e826743ddc57.m3u8
+#EXTINF:-1 group-title="VIP频道3",RTC Quarta Rete
+https://msh0232.stream.seeweb.it/live/stream00.sdp/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",RTC Telecalabria
+https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",RTI Calabria
+https://stream.ets-sistemi.it:8081/rticalabria/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",RTL 102.5 + Plus
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S12772175/FmIo5I5kmwTy/playlist_video.m3u8
+#EXTINF:-1 group-title="VIP频道3",RTM Manduria
+https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Rtp Tv
+http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Rttr
+https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Rtv 38 Toscana
+https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/playlist_dvr.m3u8
+#EXTINF:-1 group-title="VIP频道3",SL 48 Tv
+http://media.velcom.it:1935/sl48/sl48/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Sardegna 1
+https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/live/S30721796/ZS3Xu8mn5f0J/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Set Tv Cilento
+https://stream1.aswifi.it/settv/live/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",Sesta Rete
+https://stream10.xdevel.com/video0s977089-1792/stream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Sicilia 24 Tv
+https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Sienatv
+https://router.xdevel.com/video0s976727-1441/stream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Sophia Tv
+https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Stiletv
+https://proxy.media.convergenze.it/stiletv/streams/oQOFd7JglHjO1631525551097.m3u8
+#EXTINF:-1 group-title="VIP频道3",Super J Tv
+https://59d39900ebfb8.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Super Six
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Supertv
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1 group-title="VIP频道3",T9
+https://t9tv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+#EXTINF:-1 group-title="VIP频道3",TRC Santeramo
+https://stream7.livinlive.it/trc/trc/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",TRL Tele Radio Leo
+https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",TSD Tv Arezzo(Tele San Domenico)
+https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",TVL (TV Libera Pistoia)
+http://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/mono.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tcf Tv
+https://stream10.xdevel.com/video1s977294-1864/stream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tci
+https://tbn-jw.cdn.vustreams.com/live/tci/live.isml/2b7d53c5-b504-4d26-b25f-a70deb8d0faf.m3u8
+#EXTINF:-1 group-title="VIP频道3",Teatro Tv
+https://m.iostream.it/hls/teatrotv/teatrotv.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tele A
+https://lostream.it/hls/telea/video.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tele Abruzzo Tv
+http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tele Acras
+https://5db313b643fd8.streamlock.net/teleacras/teleacras/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tele Bari
+https://w1.mediastreaming.it/telebari/livestream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tele Belluno
+https://live.mariatvcdn.com/telebelluno/a3b80388da9801906adf885282e73bc3.sdp/mono.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tele Boario
+https://stream7.xdevel.com/video0s976425-1244/stream/playlist_dvr.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tele Bruzzano
+https://playerssl.telemia.tv/fileadmin/hls/Telebruzzano/telebruzzano_mediachunks.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tele Chiara
+http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Telecolor
+https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tele Cupole
+https://nrvideo1.newradio.it/euhsbdamnx/euhsbdamnx/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tele Foggia
+https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tele Friuli
+https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tele Ischia
+https://rst.saiuzwebnetwork.it:8081/teleischia/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tele Jonio
+http://59d7d6f47d7fc.streamlock.net/telejonio/telejonio/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tele Liberta\\\' HD
+https://streaming.liberta.it/hls/liberta.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tele Liguria Sud
+https://64b16f23efbee.streamlock.net/teleliguriasud/teleliguriasud/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tele Mantova
+https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tele Mia
+https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tele Mia Extra
+https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tele Mistretta
+https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tele Molise
+http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tele Nord Genova
+https://64b16f23efbee.streamlock.net/telenord/telenord/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tele Oltre
+http://1se1.troydesign.eu/np_teleoltre/_definst_/channel1_np_teleoltre/playlist.m3u8?ext=.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tele One
+https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tele Pace 1
+https://live.mariatvcdn.com/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/mono.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tele Pace 2
+https://live.mariatvcdn.com/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/mono.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tele Pace 3
+https://live.mariatvcdn.com/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/mono.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tele Pace 4
+https://live.mariatvcdn.com/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/mono.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tele Pace News
+https://live.mariatvcdn.com/teleradiopace6/d289fe76f16ad32afec471ea1b941583.sdp/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tele Pace Roma
+https://live.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f9ec1e7bbeda8c2.sdp/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tele Pace Trento
+https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tele Pavia
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tele Pegaso
+https://flash2.xdevel.com/telepegasocanale812/telepegasocanale812/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tele Piadena
+https://stream3.xdevel.com/video0s975441-151/stream/playlist_dvr.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tele Pordenone
+https://video.wifi4all.it/telepn/telepn.m3u8
+#EXTINF:-1 group-title="VIP频道3",Telecity Lombardia
+https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Telecity Valle D\\\'Aosta
+https://64b16f23efbee.streamlock.net/telecityvda/telecityvda/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",TeleCostaSmeralda
+https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/tcs_live/tcs/tcs/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Telegenova
+https://64b16f23efbee.streamlock.net/telegenova/telegenova/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Teleiblea
+https://5f22d76e220e1.streamlock.net/teleiblea/teleiblea/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Teleitalia 41
+https://streaming.softwarecreation.it/teleitalia/teleitalia/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Telejato
+https://telejato.liberotratto.com/hls/stream.m3u8
+#EXTINF:-1 group-title="VIP频道3",Teleleonessa
+http://wms.shared.streamshow.it:1935/teleleonessa/teleleonessa/live.m3u8
+#EXTINF:-1 group-title="VIP频道3",TeleMajg
+https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Telenova
+https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Telerama
+https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",TeleRegione
+https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",TeleRegione Color
+https://live.antennasudwebtv.it:9443/hls/vodtele.m3u8
+#EXTINF:-1 group-title="VIP频道3",TeleRegione Live
+https://5f22d76e220e1.streamlock.net/galluralive/galluralive/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Teleromagna
+https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Teleromagna 24
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",TeleRomaDue
+https://57068da1deb21.streamlock.net/teletibur/teletibur/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Teleuniverso
+https://stream.cp.ets-sistemi.it:1936/teleuniverso/teleuniverso/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Televallo Trapani
+https://64b16f23efbee.streamlock.net/televallo/televallo/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",TG Norba 24
+https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
+#EXTINF:-1 group-title="VIP频道3",TLT Molise
+https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tremedia Tv
+https://stream4.xdevel.com/video0s976062-1263/stream/playlist_dvr.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tuscia Sabina 2000Tv
+http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/chunks.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tv 12
+https://59d7d6f47d7fc.streamlock.net/tv12/tv12/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tv Prato
+https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/mono.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tv Qui Modena
+https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tv Yes
+https://stream1.aswifi.it/radioyes/live/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tva Vicenza
+http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tvm Palermo
+https://stream2.xdevel.com/video1s86-22/stream/playlist_dvr.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tvr Xenon
+https://cdn107-ita.azotosolutions.com:8443/cdnedge4/smil:live4.smil/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Tvrs Tv
+https://cdn8.streamshow.it/cloud-tvrs/tvrs/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Umbria Tv
+https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Uno Tv
+https://stream1.aswifi.it/unotv/live/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",Uno4 Tv
+https://cdn.uno4.it/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",VB33
+https://live.ipstream.it/vb33/vb33.stream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Video Calabria
+https://a8a02dd9a49a4fc9810743615c65ab73.msvdn.net/live/S76734991/i6NeNqLYaspb/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Video Mediterraneo
+https://bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Video Nola
+https://videonola.aswifi.it/videonolaabr/live.m3u8
+#EXTINF:-1 group-title="VIP频道3",Video Regione Sicilia
+https://57214cb172d84f8cb311b91513952b03.msvdn.net/live/S40896499/ZuaLjACsWIL4/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Video Star Tv Sicilia
+https://stream9.xdevel.com/video0s976556-1321/stream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Video Touring Tv
+https://streamingvideo.auranex.cloud/memfs/70baacad-47c6-41a6-aee0-86530c31e080.m3u8
+#EXTINF:-1 group-title="VIP频道3",Videolina
+http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Videonovara
+https://ed04.top-ix.org/avtvlive/videonovara/streaming/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Videotelecarnia
+https://rst2.saiuzwebnetwork.it:8081/vtccarnia/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",Vintage Radio Tv
+https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Webcom Tv
+https://www.webcomiptv.it/mistserver/passionelotto/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",WLTV
+https://5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Yvii Tv
+https://stream.wired-shop.com/hls/yviitv.m3u8
+#EXTINF:-1 group-title="VIP频道3",Zerouno Tv Music
+https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Zerouno Tv News
+https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",NHK G (Tokyo) Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+#EXTINF:-1 group-title="VIP频道3",NHK G (Osaka) Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+#EXTINF:-1 group-title="VIP频道3",NHK E Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+#EXTINF:-1 group-title="VIP频道3",Nippon TV (日テレ) Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+#EXTINF:-1 group-title="VIP频道3",日テレNEWS24 Ⓢ
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",TV Asahi Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
+#EXTINF:-1 group-title="VIP频道3",TBS Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+#EXTINF:-1 group-title="VIP频道3",TV Tokyo Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+#EXTINF:-1 group-title="VIP频道3",Fuji TV (フジテレビ) Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
+#EXTINF:-1 group-title="VIP频道3",Tokyo MX1 Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
+#EXTINF:-1 group-title="VIP频道3",MBS TV (MBSテレビ) Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
+#EXTINF:-1 group-title="VIP频道3",ABC TV (ABCテレビ) Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
+#EXTINF:-1 group-title="VIP频道3",Kansai TV (カンテレ) Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
+#EXTINF:-1 group-title="VIP频道3",Yomiuri TV (読売テレビ) Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
+#EXTINF:-1 group-title="VIP频道3",TV Osaka (テレビ大阪) Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
+#EXTINF:-1 group-title="VIP频道3",Sun TV (サンテレビ) Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+#EXTINF:-1 group-title="VIP频道3",NHK Kishou-Saigai Ⓢ
+https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
+#EXTINF:-1 group-title="VIP频道3",NHK BS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+#EXTINF:-1 group-title="VIP频道3",NHK BSP4K
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+#EXTINF:-1 group-title="VIP频道3",BS Nippon TV (BS日テレ)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+#EXTINF:-1 group-title="VIP频道3",BS Asahi
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="VIP频道3",BS-TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+#EXTINF:-1 group-title="VIP频道3",BS TV Tokyo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="VIP频道3",BS Fuji TV (BSフジテレビ)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+#EXTINF:-1 group-title="VIP频道3",KBC TV
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",TJB TV
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 group-title="VIP频道3",UBC TV
+http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",TV 21 Ⓢ Ⓖ
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",Телевизија Здравкин
+http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",ТВ Сонце
+https://media2.streambrothers.com:1936/8142/8142/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Орбис
+http://tvorbis.hugo.mk:1935/live/orbistv/index.m3u8
+#EXTINF:-1 group-title="VIP频道3",M»Net
+http://ares.mnet.mk/hls/mnet.m3u8
+#EXTINF:-1 group-title="VIP频道3",Македонско Сонце
+https://media2.streambrothers.com:1936/8128/8128/playlist.m3u8
+#EXTINF:-1 group-title="VIP频道3",Канал 8
+http://kanal8.hugo.mk:1935/live/kanal8/index.m3u8
+
+
