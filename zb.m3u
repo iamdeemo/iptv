@@ -3564,7 +3564,26 @@ http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd
 http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd
 #EXTINF:-1 group-title="江苏频道(IPV4)",「江苏」张家港新闻综合
 http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8?zjiangsd
-
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="江苏频道(IPV4)",江苏卫视
+http://tvbox6.com/tv/jstv.php?id=jsws
+#EXTINF:-1,tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://epg.v1.mk/logo/江苏城市.png" group-title="江苏频道(IPV4)",江苏城市
+http://tvbox6.com/tv/jstv.php?id=jscs
+#EXTINF:-1,tvg-id="江苏综艺" tvg-name="江苏综艺" tvg-logo="https://epg.v1.mk/logo/江苏综艺.png" group-title="江苏频道(IPV4)",江苏综艺
+http://tvbox6.com/tv/jstv.php?id=jszy
+#EXTINF:-1,tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="https://epg.v1.mk/logo/江苏影视.png" group-title="江苏频道(IPV4)",江苏影视
+http://tvbox6.com/tv/jstv.php?id=jsys
+#EXTINF:-1,tvg-id="江苏新闻" tvg-name="江苏新闻" tvg-logo="https://epg.v1.mk/logo/江苏新闻.png" group-title="江苏频道(IPV4)",江苏新闻
+http://tvbox6.com/tv/jstv.php?id=jsxw
+#EXTINF:-1,tvg-id="江苏体育" tvg-name="江苏体育" tvg-logo="https://epg.v1.mk/logo/江苏体育.png" group-title="江苏频道(IPV4)",江苏体育休闲
+http://tvbox6.com/tv/jstv.php?id=jsty
+#EXTINF:-1,tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://epg.v1.mk/logo/优漫卡通.png" group-title="江苏频道(IPV4)",优漫卡通
+http://tvbox6.com/tv/jstv.php?id=jskt
+#EXTINF:-1,tvg-id="江苏国际" tvg-name="江苏国际" tvg-logo="https://epg.v1.mk/logo/江苏国际.png" group-title="江苏频道(IPV4)",江苏国际
+http://tvbox6.com/tv/jstv.php?id=jsgj
+#EXTINF:-1,tvg-id="江苏教育" tvg-name="江苏教育" tvg-logo="https://epg.v1.mk/logo/江苏教育.png" group-title="江苏频道(IPV4)",江苏教育
+http://tvbox6.com/tv/jstv.php?id=jsjy
+#EXTINF:-1,tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://epg.v1.mk/logo/南京新闻综合.png" group-title="江苏频道(IPV4)",南京新闻综合
+http://tvbox6.com/tv/jstv.php?id=njxwzh
 
 
 
