@@ -1687,6 +1687,16 @@ CGTN-英语,http://139.196.228.200:5678/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%90%9E%E6%
 「江苏」新沂生活频道,http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd
 「江苏」新沂新闻频道,http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd
 「江苏」张家港新闻综合,http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8?zjiangsd
+江苏卫视,http://tvbox6.com/tv/jstv.php?id=jsws
+江苏城市,http://tvbox6.com/tv/jstv.php?id=jscs
+江苏综艺,http://tvbox6.com/tv/jstv.php?id=jszy
+江苏影视,http://tvbox6.com/tv/jstv.php?id=jsys
+江苏新闻,http://tvbox6.com/tv/jstv.php?id=jsxw
+江苏体育休闲,http://tvbox6.com/tv/jstv.php?id=jsty
+优漫卡通,http://tvbox6.com/tv/jstv.php?id=jskt
+江苏国际,http://tvbox6.com/tv/jstv.php?id=jsgj
+江苏教育,http://tvbox6.com/tv/jstv.php?id=jsjy
+南京新闻综合,http://tvbox6.com/tv/jstv.php?id=njxwzh
 
 安徽频道(IPV4),#genre#
 
