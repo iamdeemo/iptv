@@ -1877,17 +1877,6 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 南宁影视,https://hls.nntv.cn/nnlive/YSYL_24.m3u8
 南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
 隆安综合,https://hls.nntv.cn/nnlive/LATV_24.m3u8
-云南卫视,http://ynxsj.7766.org:9901/tsfile/live/0119_1.m3u8
-云南都市,http://ynxsj.7766.org:9901/tsfile/live/1000_1.m3u8
-云南生活,http://ynxsj.7766.org:9901/tsfile/live/1001_1.m3u8
-云南娱乐,,http://ynxsj.7766.org:9901/tsfile/live/1002_1.m3u8
-云南影视,http://ynxsj.7766.org:9901/tsfile/live/1003_1.m3u8
-云南康旅,http://ynxsj.7766.org:9901/tsfile/live/1004_1.m3u8
-云南少儿,http://ynxsj.7766.org:9901/tsfile/live/1006_1.m3u8
-昆明影视,http://ynxsj.7766.org:9901/tsfile/live/1016_1.m3u8
-昆明新闻,http://ynxsj.7766.org:9901/tsfile/live/1019_1.m3u8
-昆明科教,http://ynxsj.7766.org:9901/tsfile/live/1010_1.m3u8
-昆明教育,http://ynxsj.7766.org:9901/tsfile/live/1012_1.m3u8
 麻栗坡,http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv
 丘北新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel14/playlist.m3u8
 文山市电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel17/playlist.m3u8
