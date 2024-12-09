@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="公告",更新12月08日
+#EXTINF:-1 group-title="公告",更新12月09日
 https://vd2.bdstatic.com/mda-nk3am8nwdgqfy6nh/sc/cae_h264/1667555203921394810/mda-nk3am8nwdgqfy6nh.mp4
 #EXTINF:-1 group-title="公告",失效联系微信
 https://vdse.bdstatic.com//f02b43b376225b167b9db435689a2ffc.mp4
@@ -3627,54 +3627,7 @@ http://live.dxhmt.cn:9081/tv/19001-1.m3u8
 
 #EXTM3U
 #EXTINF:-1 group-title="河北频道(IPV4)",河北农民
-https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1733739785&k=60c17aaf5fd4d30e4ad8a7a4a3e9872c
-#EXTINF:-1 group-title="河北频道(IPV4)",昌黎综合频道
-https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8?zhebd
-#EXTINF:-1 group-title="河北频道(IPV4)",邯郸公共频道
-https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
-#EXTINF:-1 group-title="河北频道(IPV4)",邯郸科技教育
-https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8?zhebd
-#EXTINF:-1 group-title="河北频道(IPV4)",鹿泉一套
-https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8?zhebd
-#EXTINF:-1 group-title="河北频道(IPV4)",邯郸新闻综合
-https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
-#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
-#EXTINF:-1,tvg-id="涞水电视台" tvg-name="涞水电视台" tvg-logo="https://epg.v1.mk/logo/涞水电视台.png" group-title="河北频道(IPV4)",涞水新闻
-https://jwliveqxzb.hebyun.com.cn/lsdst/lsdst.m3u8
-#EXTINF:-1,tvg-id="承德电视台" tvg-name="承德电视台" tvg-logo="https://epg.v1.mk/logo/承德电视台.png" group-title="河北频道(IPV4)",承德公共
-https://jwliveqxzb.hebyun.com.cn/cdsggshtv/cdsggshtv.m3u8
-#EXTINF:-1,tvg-id="承德电视台" tvg-name="承德电视台" tvg-logo="https://epg.v1.mk/logo/承德电视台.png" group-title="河北频道(IPV4)",承德新闻
-https://jwliveqxzb.hebyun.com.cn/cdsxwzhtv/cdsxwzhtv.m3u8
-#EXTINF:-1,tvg-id="鹿泉电视台" tvg-name="鹿泉电视台" tvg-logo="https://epg.v1.mk/logo/鹿泉电视台.png" group-title="河北频道(IPV4)",鹿泉一套
-https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8
-#EXTINF:-1,tvg-id="平泉影视" tvg-name="平泉影视" tvg-logo="https://epg.v1.mk/logo/平泉影视.png" group-title="河北频道(IPV4)",平泉影院
-https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
-#EXTINF:-1,tvg-id="邯郸公共" tvg-name="邯郸公共" tvg-logo="https://epg.v1.mk/logo/邯郸公共.png" group-title="河北频道(IPV4)",邯郸公共
-https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
-#EXTINF:-1,tvg-id="邯郸科技教育" tvg-name="邯郸科技教育" tvg-logo="https://epg.v1.mk/logo/邯郸科技教育.png" group-title="河北频道(IPV4)",邯郸科技
-https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8?zhebd
-#EXTINF:-1,tvg-id="鹿泉电视台" tvg-name="鹿泉电视台" tvg-logo="https://epg.v1.mk/logo/鹿泉电视台.png" group-title="河北频道(IPV4)",鹿泉一套
-https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8?zhebd
-#EXTINF:-1,tvg-id="昌黎" tvg-name="昌黎" tvg-logo="https://epg.v1.mk/logo/昌黎.png" group-title="河北频道(IPV4)",昌黎综合
-https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8?zhebd
-#EXTINF:-1,tvg-id="嘉定" tvg-name="嘉定" tvg-logo="https://epg.v1.mk/logo/嘉定.png" group-title="河北频道(IPV4)",定州生活
-https://jwliveqxzb.hebyun.com.cn/shpd/shpd.m3u8
-#EXTINF:-1,tvg-id="嘉定" tvg-name="嘉定" tvg-logo="https://epg.v1.mk/logo/嘉定.png" group-title="河北频道(IPV4)",定州新闻
-https://jwliveqxzb.hebyun.com.cn/xxzhpd/xxzhpd.m3u8
-#EXTINF:-1,tvg-id="东丰综合" tvg-name="东丰综合" tvg-logo="https://epg.v1.mk/logo/东丰综合.png" group-title="河北频道(IPV4)",丰宁综合
-https://jwliveqxzb.hebyun.com.cn/fengningzonghe/fengningzonghe.m3u8
-#EXTINF:-1,tvg-id="邯郸新闻综合" tvg-name="邯郸新闻综合" tvg-logo="https://epg.v1.mk/logo/邯郸新闻综合.png" group-title="河北频道(IPV4)",邯郸新闻
-https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
-#EXTINF:-1,tvg-id="邯郸科技教育" tvg-name="邯郸科技教育" tvg-logo="https://epg.v1.mk/logo/邯郸科技教育.png" group-title="河北频道(IPV4)",邯郸科教
-https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
-#EXTINF:-1,tvg-id="平泉综合" tvg-name="平泉综合" tvg-logo="https://epg.v1.mk/logo/平泉综合.png" group-title="河北频道(IPV4)",平泉综合
-https://jwliveqxzb.hebyun.com.cn/pqzh/pqzh.m3u8
-#EXTINF:-1,tvg-id="望都电视台" tvg-name="望都电视台" tvg-logo="https://epg.v1.mk/logo/望都电视台.png" group-title="河北频道(IPV4)",望都综合
-https://jwliveqxzb.hebyun.com.cn/wddst/wddst.m3u8
-#EXTINF:-1,tvg-id="鹿泉电视台" tvg-name="鹿泉电视台" tvg-logo="https://epg.v1.mk/logo/鹿泉电视台.png" group-title="河北频道(IPV4)",鹿泉二套
-https://jwliveqxzb.hebyun.com.cn/luquaner/luquaner.m3u8
-#EXTINF:-1,tvg-id="昌黎" tvg-name="昌黎" tvg-logo="https://epg.v1.mk/logo/昌黎.png" group-title="河北频道(IPV4)",昌黎综合
-https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8
+https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1733750805&k=40ed6d41d86604ae8342b130ca4a9397
 #EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="河北频道(IPV4)",迁安新闻
 https://jwplay.hebyun.com.cn/live/jiuyunqianan/1500k/tzwj_video.m3u8
 #EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="河北频道(IPV4)",迁西综合
@@ -4185,49 +4138,6 @@ http://php.jdshipin.com:8880/fstv.php?id=fssd
 http://php.jdshipin.com:8880/fstv.php?id=fsgm
 #EXTINF:-1,tvg-id="佛山公共" tvg-name="佛山公共" tvg-logo="https://epg.v1.mk/logo/佛山公共.png" group-title="广东频道(IPV4)",佛山三水
 http://php.jdshipin.com:8880/fstv.php?id=fsss
-
-#EXTINF:-1 group-title="广东频道(IPV4)",广东大湾区卫视
-http://113.118.13.45:808/hls/132/index.m3u8
-#EXTINF:-1 group-title="广东频道(IPV4)",广东新闻
-http://113.118.13.45:808/hls/5/index.m3u8
-#EXTINF:-1 group-title="广东频道(IPV4)",岭南戏曲
-http://113.118.13.45:808/hls/16/index.m3u8
-#EXTINF:-1 group-title="广东频道(IPV4)",经济科教
-http://113.118.13.45:808/hls/4/index.m3u8
-#EXTINF:-1 group-title="广东频道(IPV4)",广东影视
-http://113.118.13.45:808/hls/6/index.m3u8
-#EXTINF:-1 group-title="广东频道(IPV4)",广东少儿
-http://113.118.13.45:808/hls/175/index.m3u8
-#EXTINF:-1 group-title="广东频道(IPV4)",广东综艺(4k)
-http://113.118.13.45:808/hls/9/index.m3u8
-#EXTINF:-1 group-title="广东频道(IPV4)",广东体育
-http://113.118.13.45:808/hls/2/index.m3u8
-#EXTINF:-1 group-title="广东频道(IPV4)",广东民生
-http://113.118.13.45:808/hls/18/index.m3u8
-#EXTINF:-1 group-title="广东频道(IPV4)",纪实人文
-http://113.118.13.45:808/hls/173/index.m3u8
-#EXTINF:-1 group-title="广东频道(IPV4)",兵器科技
-http://113.118.13.45:808/hls/21/index.m3u8
-#EXTINF:-1 group-title="广东频道(IPV4)",广东卫视
-http://113.118.13.45:808/hls/80/index.m3u8
-#EXTINF:-1 group-title="广东频道(IPV4)",广东珠江
-http://113.118.13.45:808/hls/83/index.m3u8
-#EXTINF:-1 group-title="广东频道(IPV4)",深圳都市
-http://113.118.13.45:808/hls/140/index.m3u8
-#EXTINF:-1 group-title="广东频道(IPV4)",深圳电视剧频道
-http://113.118.13.45:808/hls/141/index.m3u8
-#EXTINF:-1 group-title="广东频道(IPV4)",深圳财经生活
-http://113.118.13.45:808/hls/151/index.m3u8
-#EXTINF:-1 group-title="广东频道(IPV4)",深圳少儿
-http://113.118.13.45:808/hls/157/index.m3u8
-#EXTINF:-1 group-title="广东频道(IPV4)",深圳健康频道
-http://113.118.13.45:808/hls/158/index.m3u8
-#EXTINF:-1 group-title="广东频道(IPV4)",中学生
-http://113.118.13.45:808/hls/24/index.m3u8
-#EXTINF:-1 group-title="广东频道(IPV4)",老故事
-http://113.118.13.45:808/hls/26/index.m3u8
-#EXTINF:-1 group-title="广东频道(IPV4)",国学频道
-http://113.118.13.45:808/hls/23/index.m3u8
 #EXTINF:-1 group-title="广东频道(IPV4)",广东卫视
 http://218.13.170.98:9901/tsfile/live/0017_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="广东频道(IPV4)",经济科教
@@ -4539,8 +4449,6 @@ https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
 http://125.62.24.185:80/1.m3u8?zzhongqd
 #EXTINF:-1 group-title="地方频道(IPV6)",「福建」漳州新闻综合
 http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8?zfud
-#EXTINF:-1 group-title="地方频道(IPV6)",「甘肃」崆峒综合
-http://125.74.200.110:10080/hls/001/001_live.m3u8?gansu
 #EXTINF:-1 group-title="地方频道(IPV6)",「广东」广州综合
 http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzzh
 #EXTINF:-1 group-title="地方频道(IPV6)",「广东」广州南国都市
@@ -4555,14 +4463,6 @@ http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8?zguangxd
 http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8?zguangxd
 #EXTINF:-1 group-title="地方频道(IPV6)",「广西」南宁影娱乐
 http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8?zguangxd
-#EXTINF:-1 group-title="地方频道(IPV6)",「河北」昌黎综合频道
-https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8?zhebd
-#EXTINF:-1 group-title="地方频道(IPV6)",「河北」邯郸公共频道
-https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
-#EXTINF:-1 group-title="地方频道(IPV6)",「河北」邯郸科技教育
-https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8?zhebd
-#EXTINF:-1 group-title="地方频道(IPV6)",「河北」鹿泉一套
-https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8?zhebd
 #EXTINF:-1 group-title="地方频道(IPV6)",「河南」宝丰综合频道
 http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8?zhend
 #EXTINF:-1 group-title="地方频道(IPV6)",「河南」邓州新闻
