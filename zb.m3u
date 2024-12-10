@@ -608,8 +608,6 @@ http://159.75.85.63:36666/migu/923287154.m3u8?migutoken=c32a69ebc99d0d528ff9a7cb
 http://159.75.85.63:36666/migu/923287211.m3u8?migutoken=ef37a463c6bbf3b3ccc6f265afcde5376ce48f22a8c55c2943c521be07e5acba0a977af27361ee0851e33ddbf15022594016215a196a38d64d10f1c34771fff045a6e5125a9db4a0fc7f28a86e
 #EXTINF:-1,tvg-id="cetv4" tvg-name="cetv4" tvg-logo="https://epg.v1.mk/logo/cetv4.png" group-title="咪咕直播(IPV4)",CETV4
 http://159.75.85.63:36666/migu/923287339.m3u8?migutoken=37bb3448cc88262eb97f7bdfecd46fe927fe3532a60937f7130a84c9390b7bac260fb0da19407e8dbe820cd68d71b81e4dac3d2571a493943209bfdcfc8fea336b05e70cf3854d2c692ff26687
-#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕直播(IPV4)",咪咕汇盛典轮播
-http://159.75.85.63:36666/migu/939773601.m3u8?migutoken=bdcc9afd4bb4b22e28ea48648b56dc28837d87d82854de069c2ac005f65dc5ee06de218ba2656c718bd2c7752a6b748062b8a7bc28ed224c563a726ea81f7624e89fd540eab593489d101e9b48
 #EXTINF:-1,tvg-id="CIBN华语影院" tvg-name="CIBN华语影院" tvg-logo="https://epg.v1.mk/logo/CIBN华语影院.png" group-title="咪咕直播(IPV4)",华语乐坛最强音
 http://159.75.85.63:36666/migu/707671890.m3u8?migutoken=9d37466affd4c05cd3475320dbb6f77c61166ad2d8462a6debe4ea2f13f26d0dfc682316a3ffa6d693cab4cb05b2860037540a3855ef37d087afde69b1db6ca303c2541c924760105c9da03f99
 #EXTINF:-1,tvg-id="周口" tvg-name="周口" tvg-logo="https://epg.v1.mk/logo/周口.png" group-title="咪咕直播(IPV4)",周杰伦现场
