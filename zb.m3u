@@ -903,23 +903,18 @@ http://58.19.244.92:1111/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 #EXTM3U
-http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
 #EXTINF:-1,tvg-id="chc动作电影" tvg-name="chc动作电影" tvg-logo="https://epg.v1.mk/logo/chc动作电影.png" group-title="数字频道(IPV6)",CHC动作电影
 https://stream1.freetv.fun/ipv6-chcdong-zuo-dian-ying-24.m3u8
 #EXTINF:-1,tvg-id="chc动作电影" tvg-name="chc动作电影" tvg-logo="https://epg.v1.mk/logo/chc动作电影.png" group-title="数字频道(IPV6)",CHC动作电影
-http://58.48.5.186:1111/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012%24%E5%B1%B1%E8%A5%BFuni2+%24%E7%BB%84%E6%92%AD%E6%BA%90
 #EXTINF:-1 group-title="数字频道(IPV6)",CHC 家庭影院
-https://api.livednow.org/migu/644368373?sign=gAAAAABnJcJqmc1MsiQush_pxUKZ5OeC8HhfO-CPbiBOF88hW8nkCObTvAyhv11H14Bhk-bFCpsouIhtO3PlCY2ah4IhSGfy05LSMd_KFlBY9L5xbZB7SlCEDLk24QPqmM8gtv7g4796StdogDq4Om3HxXvjrZNas54BY18WZzcB4-YE56gA6xbu36O2c2niJ0WeKWqCks68bT83swV6thf54iuQVybh2w%3D%3D
+http://nas.hssvm.com:8888/udp/225.1.1.213:5002%24%E8%AE%A2%E9%98%85%E6%BA%90
 #EXTINF:-1 group-title="数字频道(IPV6)",CHC动作电影
-http://58.48.5.186:1111/tsfile/live/0121_1.m3u8?key=Aikantv&t=1727575209%24%E6%99%9A%E9%AB%98%E5%B3%B0%E5%8D%A1
-#EXTINF:-1 group-title="数字频道(IPV6)",CHC家庭影院
-http://58.48.5.186:1111/tsfile/live/0131_2.m3u8?key=Aikantv&t=1727575209%24%E6%99%9A%E9%AB%98%E5%B3%B0%E5%8D%A1
-#EXTINF:-1 group-title="数字频道(IPV6)",CHC影迷电影
-http://58.48.5.186:1111/tsfile/live/0142_1.m3u8?key=Aikantv&t=1727575209%24%E6%99%9A%E9%AB%98%E5%B3%B0%E5%8D%A1
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8%24%E8%AE%A2%E9%98%85%E6%BA%90-IPv6
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="数字频道(IPV6)",CHC动作电影
+http://124.230.56.27:55555/udp/239.76.252.243:9000%24%E8%AE%A2%E9%98%85%E6%BA%90
 #EXTINF:-1 group-title="数字频道(IPV6)",CHC動作電影
 https://stream1.freetv.fun/3bcacb2ddf662037b37dee63df19deeeffab03d9025530ab692946de8d43966c.m3u8
-#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="数字频道(IPV6)",CHC高清电影
-http://58.48.5.186:1111/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0%24%E8%AE%A2%E9%98%85%E6%BA%90
 #EXTINF:-1 group-title="数字频道(IPV6)",NewTv黑莓电影
 http://39.134.134.51/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EkBVQL3MtyiM0GGQzuPjqAQ%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000005002606%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C371210150%2CEND&GuardEncType=2
 #EXTINF:-1 group-title="数字频道(IPV6)",NewTv超级电影
@@ -1163,12 +1158,6 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000017/index.m3u8?
 
 
 #EXTM3U
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="数字电视(IPV6)",CHC动作电影
-http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="数字电视(IPV6)",CHC家庭影院
-http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="数字电视(IPV6)",CHC影迷电影
-http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 group-title="数字电视(IPV6)",黑莓动画
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010002/1.m3u8
 #EXTINF:-1 group-title="数字电视(IPV6)",古装剧场
