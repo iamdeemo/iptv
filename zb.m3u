@@ -3999,6 +3999,51 @@ https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
 https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 #EXTINF:-1 group-title="山东频道(IPV4)",枣庄公共频道
 http://stream.zztvzd.com/3/sd/live.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4)",烟台新闻综合
+http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4)",烟台经济科技
+http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4)",烟台公共频道
+http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4)",烟台影视频道
+http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4)",菏泽影视频道
+http://zb.hezegd.com:1935/live/hztv3/1000k/tzwj_video.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4)",菏泽新闻综合
+http://zb.hezegd.com:1935/live/hztv1/1000k/tzwj_video.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4)",菏泽经济生活
+http://zb.hezegd.com:1935/live/hztv2/1000k/tzwj_video.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4)",枣庄新闻综合
+http://stream.zztvzd.com/1/sd/live.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4)",枣庄教育频道
+http://stream.zztvzd.com/2/sd/live.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4)",枣庄公共频道
+http://stream.zztvzd.com/3/sd/live.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4)",东营综合频道
+http://stream.hhek.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4)",东营公共频道
+http://stream.hhek.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4)",东营科教频道
+http://stream.hhek.cn/dyjy/sd/live.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4)",青州综合频道
+http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4)",青州文化旅游
+http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4)",枣庄新闻综合
+http://stream.zztvzd.com/1/sd/live.m3u8?shandd
+#EXTINF:-1 group-title="山东频道(IPV4)",枣庄教育
+http://stream.zztvzd.com/2/sd/live.m3u8?shandd
+#EXTINF:-1 group-title="山东频道(IPV4)",枣庄公共
+http://stream.zztvzd.com/3/sd/live.m3u8?shandd
+#EXTINF:-1 group-title="山东频道(IPV4)",济宁公共
+http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8?shandd
+#EXTINF:-1 group-title="山东频道(IPV4)",济宁教育
+http://lives.jnnews.tv/video/s10001-JNTV-2/index.m3u8?shandd
+#EXTINF:-1 group-title="山东频道(IPV4)",济宁综合
+http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8?shandd
+#EXTINF:-1 group-title="山东频道(IPV4)",山东教育
+http://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
+
 
 
 
