@@ -3346,20 +3346,12 @@ http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8?zjiangsd
 http://sihong-tv-hls.cm.jstv.com/sihong-tv/sihongxinwenzonghe.m3u8?zjiangsd
 #EXTINF:-1,tvg-id="赣榆电视台" tvg-name="赣榆电视台" tvg-logo="https://epg.v1.mk/logo/赣榆电视台.png" group-title="江苏频道(IPV4)",赣榆新闻综合
 http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8?zjiangsd
-#EXTINF:-1,tvg-id="无锡经济频道" tvg-name="无锡经济频道" tvg-logo="https://epg.v1.mk/logo/无锡经济频道.png" group-title="江苏频道(IPV4)",无锡经济
-http://stream.thmz.com/wxtv5/sd/live.m3u8
-#EXTINF:-1,tvg-id="无锡都市资讯" tvg-name="无锡都市资讯" tvg-logo="https://epg.v1.mk/logo/无锡都市资讯.png" group-title="江苏频道(IPV4)",无锡都市资讯
-http://stream.thmz.com/wxtv3/sd/live.m3u8
-#EXTINF:-1,tvg-id="无锡都市资讯" tvg-name="无锡都市资讯" tvg-logo="https://epg.v1.mk/logo/无锡都市资讯.png" group-title="江苏频道(IPV4)",无锡都市资讯
-http://stream.thmz.com/wxtv3/playlist.m3u8
 #EXTINF:-1,tvg-id="宿豫综合" tvg-name="宿豫综合" tvg-logo="https://epg.v1.mk/logo/宿豫综合.png" group-title="江苏频道(IPV4)",宿豫综合频道
 https://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.m3u8?zjiangsd
 #EXTINF:-1,tvg-id="张家界新闻" tvg-name="张家界新闻" tvg-logo="https://epg.v1.mk/logo/张家界新闻.png" group-title="江苏频道(IPV4)",张家港综合
 http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:-1,tvg-id="武进新闻" tvg-name="武进新闻" tvg-logo="https://epg.v1.mk/logo/武进新闻.png" group-title="江苏频道(IPV4)",武进新闻频道
 https://live.wjyanghu.com/live/CH1.m3u8?zjiangsd
-#EXTINF:-1,tvg-id="常熟综合" tvg-name="常熟综合" tvg-logo="https://epg.v1.mk/logo/常熟综合.png" group-title="江苏频道(IPV4)",常熟综合
-http://cstvplay.21cs.cn/cstv1/cstv1.m3u8
 #EXTINF:-1,tvg-id="睢宁综合" tvg-name="睢宁综合" tvg-logo="https://epg.v1.mk/logo/睢宁综合.png" group-title="江苏频道(IPV4)",睢宁综合频道
 http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8?zjiangsd
 #EXTINF:-1,tvg-id="张家界新闻" tvg-name="张家界新闻" tvg-logo="https://epg.v1.mk/logo/张家界新闻.png" group-title="江苏频道(IPV4)",张家港新闻
@@ -3388,16 +3380,6 @@ http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8?zjiangsd
 http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsh.m3u8?zjiangsd
 #EXTINF:-1 group-title="江苏频道(IPV4)",「江苏」睢宁综合频道
 http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8?zjiangsd
-#EXTINF:-1 group-title="江苏频道(IPV4)",「江苏」无锡都市资讯
-http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd
-#EXTINF:-1 group-title="江苏频道(IPV4)",「江苏」无锡经济
-http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd
-#EXTINF:-1 group-title="江苏频道(IPV4)",「江苏」无锡生活
-http://stream.thmz.com/wxtv4/sd/live.m3u8?zjiangsd
-#EXTINF:-1 group-title="江苏频道(IPV4)",「江苏」无锡新闻综合
-http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd
-#EXTINF:-1 group-title="江苏频道(IPV4)",「江苏」无锡娱乐
-http://stream.thmz.com/wxtv2/sd/live.m3u8?zjiangsd
 #EXTINF:-1 group-title="江苏频道(IPV4)",「江苏」新沂生活频道
 http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd
 #EXTINF:-1 group-title="江苏频道(IPV4)",「江苏」新沂新闻频道
@@ -4089,39 +4071,27 @@ http://218.13.170.98:9901/tsfile/live/1000_1.m3u8?key=txiptv
 
 #EXTM3U
 #EXTINF:-1 group-title="儿童频道(IPV4)",黑莓动画
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000096/index.m3u8
-#EXTINF:-1 group-title="儿童频道(IPV4)",黑莓动画
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010002/index.m3u8
 #EXTINF:-1 group-title="儿童频道(IPV4)",优漫卡通
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000070/index.m3u8
-#EXTINF:-1 group-title="儿童频道(IPV4)",优漫卡通
-http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000049/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 group-title="儿童频道(IPV4)",卡酷少儿
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000040/index.m3u8
 #EXTINF:-1 group-title="儿童频道(IPV4)",卡酷少儿
 http://[2409:8087:5e08:24::11]:6610/000000001000/7851974109718180595/1.m3u8?channel-id=bestzb&Contentid=7851974109718180595&livemode=1&stbId=3
 #EXTINF:-1 group-title="儿童频道(IPV4)",嘉佳卡通
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010102/1.m3u8
-#EXTINF:-1 group-title="儿童频道(IPV4)",嘉佳卡通
-http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000074/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 group-title="儿童频道(IPV4)",金鹰卡通
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040024/1.m3u8
 #EXTINF:-1 group-title="儿童频道(IPV4)",金鹰卡通
 http://[2409:8087:5e08:24::11]:6610/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
-#EXTINF:-1 group-title="儿童频道(IPV4)",金鹰卡通
-http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002027/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 group-title="儿童频道(IPV4)",哈哈炫动
 http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031123/index.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
-#EXTINF:-1 group-title="儿童频道(IPV4)",卡酷动画
-http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000661/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 group-title="儿童频道(IPV4)",NewTV黑莓动画
 http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000021734/1.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3
 #EXTINF:-1 group-title="儿童频道(IPV4)",tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHOTihot11pnggrouptitle动画频道爱动漫
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 group-title="儿童频道(IPV4)",动漫秀场
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000009&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 group-title="儿童频道(IPV4)",山东少儿
-http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000340/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 group-title="儿童频道(IPV4)",海南少儿
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
 #EXTINF:-1 group-title="儿童频道(IPV4)",海南少儿
@@ -4170,18 +4140,10 @@ http://111.14.181.15:9901/tsfile/live/1005_1.m3u8
 http://tv.pull.hebtv.com/jishi/shaoerkejiao.flv?t=2510710360&k=87b12e4fe703265f4f59538a2399246c
 #EXTINF:-1 group-title="儿童频道(IPV4)",茶啊二中动画
 https://live.iill.top/huya/11213191
-#EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.com/tv/卡酷动画.png" group-title="儿童频道(IPV4)",卡酷动画
-http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000661/index.m3u8?IASHttpSessionId=%24%E8%AE%A2%E9%98%85%E6%BA%90-IPv6
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="儿童频道(IPV4)",动漫秀场
-http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226197/index.m3u8%24%E8%AE%A2%E9%98%85%E6%BA%90-IPv6
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="儿童频道(IPV4)",动漫秀场
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000009&IASHttpSessionId=OTT19019320240419154124000281&yang-1989%24%E8%AE%A2%E9%98%85%E6%BA%90-IPv6
 #EXTINF:-1 tvg-name="新动漫" tvg-logo="https://live.fanmingming.com/tv/新动漫.png" group-title="儿童频道(IPV4)",新动漫
 http://221.196.136.66:1/udp/225.1.1.216:5002%24%E8%AE%A2%E9%98%85%E6%BA%90
-#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://live.fanmingming.com/tv/新动漫.png" group-title="儿童频道(IPV4)",新动漫
-http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000659/index.m3u8?IASHttpSessionId=%24%E8%AE%A2%E9%98%85%E6%BA%90-IPv6
-#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://live.fanmingming.com/tv/新动漫.png" group-title="儿童频道(IPV4)",新动漫
-http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000659/index.m3u8?IASHttpSessionId=%24%E8%AE%A2%E9%98%85%E6%BA%90-IPv6
 #EXTINF:-1 tvg-name="爱动漫" tvg-logo="https://live.fanmingming.com/tv/爱动漫.png" group-title="儿童频道(IPV4)",爱动漫
 http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281%24%E8%AE%A2%E9%98%85%E6%BA%90-IPv6
 #EXTINF:-1 tvg-name="爱动漫" tvg-logo="https://live.fanmingming.com/tv/爱动漫.png" group-title="儿童频道(IPV4)",爱动漫
@@ -5037,28 +4999,10 @@ http://dtrmlive.qhdtrm.cn/testpush/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="地方卫视2(IPV4)",南宁新闻综合
 https://hls.nntv.cn/nnlive/XWZH_24.m3u8
-#EXTINF:-1 group-title="地方卫视2(IPV4)",河北昌黎
-http://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.flv
-#EXTINF:-1 group-title="地方卫视2(IPV4)",定州国学影视
-https://jwliveqxzb.hebyun.com.cn/yspd/yspd.m3u8
-#EXTINF:-1 group-title="地方卫视2(IPV4)",承德新闻综合
-https://jwliveqxzb.hebyun.com.cn/cdsxwzhtv/cdsxwzhtv.m3u8
-#EXTINF:-1 group-title="地方卫视2(IPV4)",定州新闻综合
-https://jwliveqxzb.hebyun.com.cn/xxzhpd/xxzhpd.m3u8
-#EXTINF:-1 group-title="地方卫视2(IPV4)",承德公共生活
-https://jwliveqxzb.hebyun.com.cn/cdsggshtv/cdsggshtv.m3u8
-#EXTINF:-1 group-title="地方卫视2(IPV4)",涞水新闻频道
-https://jwliveqxzb.hebyun.com.cn/lsdst/lsdst.m3u8
-#EXTINF:-1 group-title="地方卫视2(IPV4)",昌黎综合频道
-https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8
 #EXTINF:-1 group-title="地方卫视2(IPV4)",万州综合频道 (576p)
 http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
 #EXTINF:-1 group-title="地方卫视2(IPV4)",万州三峡移民 (576p)
 http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
-#EXTINF:-1 group-title="地方卫视2(IPV4)",巫山综合频道
-https://qxlmlive9.cbg.cn/applive/wspd001/chunklist.m3u8
-#EXTINF:-1 group-title="地方卫视2(IPV4)",酉阳综合频道
-http://qxlmlive9.cbg.cn/applive/youytv01/playlist.m3u8
 #EXTINF:-1 group-title="地方卫视2(IPV4)",十新闻 德里
 http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 #EXTINF:-1 group-title="地方卫视2(IPV4)",荆门新闻综合
@@ -5179,12 +5123,6 @@ https://live.gxrb.com.cn/gx/jingxi/index.m3u8
 https://live.gxrb.com.cn/gx/bama/index.m3u8
 #EXTINF:-1 group-title="地方卫视2(IPV4)",都安电视台
 https://live.gxrb.com.cn/gx/duan/index.m3u8
-#EXTINF:-1 group-title="地方卫视2(IPV4)",龙州电视台
-https://live.gxrb.com.cn/gx/longzhou/index.m3u8
-#EXTINF:-1 group-title="地方卫视2(IPV4)",北海新闻综合频道
-https://live.gxrb.com.cn/gx/beihai/index.m3u8
-#EXTINF:-1 group-title="地方卫视2(IPV4)",邯郸公共频道
-https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
 #EXTINF:-1 group-title="地方卫视2(IPV4)",保定一套
 http://live.bdgdw.com/channel1/playlist.m3u8?_upt=167c22b91707375646
 #EXTINF:-1 group-title="地方卫视2(IPV4)",保定二套公共频道
@@ -5215,12 +5153,6 @@ http://live.dxhmt.cn:9081/tv/10526-1.m3u8
 http://live.dxhmt.cn:9081/tv/10581-1.m3u8
 #EXTINF:-1 group-title="地方卫视2(IPV4)",内黄新闻综合频道
 http://live.dxhmt.cn:9081/tv/10527-1.m3u8
-#EXTINF:-1 group-title="地方卫视2(IPV4)",洛阳一套综合频道
-http://wshls.live.migucloud.com/live/C788MHFD_C0/playlist.m3u8
-#EXTINF:-1 group-title="地方卫视2(IPV4)",洛阳二套科教频道
-http://wshls.live.migucloud.com/live/CXGQPXRK_C0/playlist.m3u8
-#EXTINF:-1 group-title="地方卫视2(IPV4)",洛阳三套文旅频道
-http://wshls.live.migucloud.com/live/FJ7Q9PIT_C0/playlist.m3u8
 #EXTINF:-1 group-title="地方卫视2(IPV4)",汝阳综合频道
 http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
 #EXTINF:-1 group-title="地方卫视2(IPV4)",宜阳综合频道
@@ -5353,16 +5285,6 @@ http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel14/pla
 http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
 #EXTINF:-1 group-title="地方卫视2(IPV4)",江宁电视台综合频道
 https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
-#EXTINF:-1 group-title="地方卫视2(IPV4)",无锡新闻综合频道
-http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=b27ac8431707368778
-#EXTINF:-1 group-title="地方卫视2(IPV4)",无锡都市资讯频道
-http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=f8565e4d1707369057
-#EXTINF:-1 group-title="地方卫视2(IPV4)",无锡娱乐频道
-http://stream.thmz.com/wxtv2/playlist.m3u8?_upt=22c8ae641707368797
-#EXTINF:-1 group-title="地方卫视2(IPV4)",无锡经济频道
-http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=2e07387a1707368071
-#EXTINF:-1 group-title="地方卫视2(IPV4)",无锡生活频道
-http://stream.thmz.com/wxtv4/playlist.m3u8?_upt=8c51357c1707362770
 #EXTINF:-1 group-title="地方卫视2(IPV4)",睢宁综合频道
 http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8
 #EXTINF:-1 group-title="地方卫视2(IPV4)",睢宁生活教育频道
@@ -5655,8 +5577,6 @@ http://jzlive.jztvnews.com:90/live/jzgg.m3u8
 http://jzlive.jztvnews.com:90/live/jzzh.m3u8
 #EXTINF:-1 group-title="地方卫视2(IPV4)",潞城新闻
 http://59.48.42.6:62204/lucheng.m3u8
-#EXTINF:-1 group-title="地方卫视2(IPV4)",平鲁综合
-https://stream.icelook.cn/790d0a0f38c07f31/6728300245723120644_1609747594.m3u8?auth_key=1893456000-0-0-0cc4be5653a88cdb748a4543643d0fdb
 #EXTINF:-1 group-title="地方卫视2(IPV4)",五台综合
 https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8
 #EXTINF:-1 group-title="地方卫视2(IPV4)",运城公共
@@ -5803,12 +5723,6 @@ http://cnpull.sccnfb.com/live/123456.m3u8
 http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8
 #EXTINF:-1 group-title="小地方台",高邮综合频道
 http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
-#EXTINF:-1 group-title="小地方台",邯郸公共
-https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
-#EXTINF:-1 group-title="小地方台",邯郸科技教育
-https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
-#EXTINF:-1 group-title="小地方台",邯郸新闻综合
-https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
 #EXTINF:-1 group-title="小地方台",伊犁汉语综合
 http://110.153.180.106:55555/out_1/index.m3u8
 #EXTINF:-1 group-title="小地方台",东莞新闻综合
@@ -5879,14 +5793,6 @@ http://stream.hrbtv.net/shpd/playlist.m3u8
 http://stream.jmtv.com.cn/xwzh/playlist.m3u8
 #EXTINF:-1 group-title="小地方台",荆门教育
 http://stream.jmtv.com.cn/ggsh/playlist.m3u8
-#EXTINF:-1 group-title="小地方台",无锡新闻
-http://stream.thmz.com/wxtv1/playlist.m3u8
-#EXTINF:-1 group-title="小地方台",无锡都市
-http://stream.thmz.com/wxtv3/playlist.m3u8
-#EXTINF:-1 group-title="小地方台",无锡生活
-http://stream.thmz.com/wxtv4/playlist.m3u8
-#EXTINF:-1 group-title="小地方台",无锡经济
-http://stream.thmz.com/wxtv5/playlist.m3u8
 #EXTINF:-1 group-title="小地方台",万源
 http://live.wanyuannews.com/wytv/playlist.m3u8
 #EXTINF:-1 group-title="小地方台",柳河综合
@@ -5937,28 +5843,8 @@ http://stream.zztvzd.com/2/playlist.m3u8
 http://stream.zztvzd.com/3/playlist.m3u8
 #EXTINF:-1 group-title="小地方台",吴忠综合
 http://live.kanwz.net/zhpd/playlist.m3u8
-#EXTINF:-1 group-title="小地方台",邯郸公共
-https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
-#EXTINF:-1 group-title="小地方台",邯郸新闻
-https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
-#EXTINF:-1 group-title="小地方台",邯郸科技教育
-https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8?zhebd
-#EXTINF:-1 group-title="小地方台",河北鹿泉一套
-https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8?zhebd
-#EXTINF:-1 group-title="小地方台",定州国学影视
-https://jwliveqxzb.hebyun.com.cn/yspd/yspd.m3u8
-#EXTINF:-1 group-title="小地方台",承德新闻综合
-https://jwliveqxzb.hebyun.com.cn/cdsxwzhtv/cdsxwzhtv.m3u8
-#EXTINF:-1 group-title="小地方台",望都综合频道
-https://jwliveqxzb.hebyun.com.cn/wddst/wddst.m3u8
-#EXTINF:-1 group-title="小地方台",定州新闻综合
-https://jwliveqxzb.hebyun.com.cn/xxzhpd/xxzhpd.m3u8
 #EXTINF:-1 group-title="小地方台",万州综合频道 (576p)
 http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
-#EXTINF:-1 group-title="小地方台",巫山综合频道
-https://qxlmlive9.cbg.cn/applive/wspd001/chunklist.m3u8
-#EXTINF:-1 group-title="小地方台",酉阳综合频道
-http://qxlmlive9.cbg.cn/applive/youytv01/playlist.m3u8
 #EXTINF:-1 group-title="小地方台",荆门新闻综合
 http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
 #EXTINF:-1 group-title="小地方台",河北荆门教育
@@ -6027,8 +5913,6 @@ https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 http://hls.nntv.cn/nnlive/WLSH_24.m3u8
 #EXTINF:-1 group-title="小地方台",南宁公共频道
 https://hls.nntv.cn/nnlive/GGPD_24.m3u8
-#EXTINF:-1 group-title="小地方台",邯郸公共频道
-https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
 #EXTINF:-1 group-title="小地方台",张家口一套新闻综合频道
 http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
 #EXTINF:-1 group-title="小地方台",荣昌综合频道
@@ -6043,12 +5927,6 @@ http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
 http://live.dxhmt.cn:9081/tv/10184-1.m3u8
 #EXTINF:-1 group-title="小地方台",内黄新闻综合频道
 http://live.dxhmt.cn:9081/tv/10527-1.m3u8
-#EXTINF:-1 group-title="小地方台",洛阳一套综合频道
-http://wshls.live.migucloud.com/live/C788MHFD_C0/playlist.m3u8
-#EXTINF:-1 group-title="小地方台",洛阳二套科教频道
-http://wshls.live.migucloud.com/live/CXGQPXRK_C0/playlist.m3u8
-#EXTINF:-1 group-title="小地方台",洛阳三套文旅频道
-http://wshls.live.migucloud.com/live/FJ7Q9PIT_C0/playlist.m3u8
 #EXTINF:-1 group-title="小地方台",汝阳综合频道
 http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
 #EXTINF:-1 group-title="小地方台",获嘉新闻综合频道
@@ -6115,14 +5993,6 @@ http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel13/pla
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel14/playlist.m3u8
 #EXTINF:-1 group-title="小地方台",江宁电视台综合频道
 https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
-#EXTINF:-1 group-title="小地方台",无锡新闻综合频道
-http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=b27ac8431707368778
-#EXTINF:-1 group-title="小地方台",无锡都市资讯频道
-http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=f8565e4d1707369057
-#EXTINF:-1 group-title="小地方台",无锡经济频道
-http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=2e07387a1707368071
-#EXTINF:-1 group-title="小地方台",无锡生活频道
-http://stream.thmz.com/wxtv4/playlist.m3u8?_upt=8c51357c1707362770
 #EXTINF:-1 group-title="小地方台",如东一套新闻综合频道
 http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
 #EXTINF:-1 group-title="小地方台",泗洪新闻综合频道
@@ -6173,8 +6043,6 @@ http://live.jinnews.com.cn/xwzh/sd/live.m3u8
 http://jzlive.jztvnews.com:90/live/jzgg.m3u8
 #EXTINF:-1 group-title="小地方台",晋中新闻
 http://jzlive.jztvnews.com:90/live/jzzh.m3u8
-#EXTINF:-1 group-title="小地方台",平鲁综合
-https://stream.icelook.cn/790d0a0f38c07f31/6728300245723120644_1609747594.m3u8?auth_key=1893456000-0-0-0cc4be5653a88cdb748a4543643d0fdb
 #EXTINF:-1 group-title="小地方台",运城公共
 http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8
 #EXTINF:-1 group-title="小地方台",运城科技教育
