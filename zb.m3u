@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="公告",更新12月13日
+#EXTINF:-1 group-title="公告",更新12月15日
 https://vd2.bdstatic.com/mda-nk3am8nwdgqfy6nh/sc/cae_h264/1667555203921394810/mda-nk3am8nwdgqfy6nh.mp4
 #EXTINF:-1 group-title="公告",失效联系微信
 https://vdse.bdstatic.com//f02b43b376225b167b9db435689a2ffc.mp4
@@ -3267,15 +3267,7 @@ http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 
 
 
-
-
-
-
 #EXTM3U
-#EXTINF:-1 group-title="江苏频道(IPV4)",无锡新闻综合
-http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd
-#EXTINF:-1 group-title="江苏频道(IPV4)",无锡娱乐
-http://stream.thmz.com/wxtv2/sd/live.m3u8?zjiangsd
 #EXTINF:-1 group-title="江苏频道(IPV4)",金湖新闻综合
 http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8?zjiangsd
 #EXTINF:-1 group-title="江苏频道(IPV4)",金坛新闻频道
@@ -3670,26 +3662,16 @@ https://jwplay.hebyun.com.cn/live/jiuyunqianan/1500k/tzwj_video.m3u8
 http://121.19.134.222:808/tsfile/live/1005_1.m3u8
 #EXTINF:-1 group-title="河北频道(IPV4)",河北农民
 http://121.19.134.139:808/tsfile/live/1005_1.m3u8
-#EXTINF:-1 group-title="河北频道(IPV4)",河北农民
-http://101.72.127.38:808/tsfile/live/1004_1.m3u8
 #EXTINF:-1 group-title="河北频道(IPV4)",河北衡山
 http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
-#EXTINF:-1 group-title="河北频道(IPV4)",河北农民
-http://101.74.28.139:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1 group-title="河北频道(IPV4)",河北农民
 http://101.74.28.105:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1 group-title="河北频道(IPV4)",河北都市
 http://121.19.134.139:808/tsfile/live/1001_1.m3u8
 #EXTINF:-1 group-title="河北频道(IPV4)",河北都市
-http://101.72.127.38:808/tsfile/live/1000_1.m3u8
-#EXTINF:-1 group-title="河北频道(IPV4)",河北都市
 http://101.74.28.105:9901/tsfile/live/1003_1.m3u8
 #EXTINF:-1 group-title="河北频道(IPV4)",河北都市
-http://101.74.28.139:9901/tsfile/live/1003_1.m3u8
-#EXTINF:-1 group-title="河北频道(IPV4)",河北都市
 http://101.74.28.50:9901/tsfile/live/1003_1.m3u8
-#EXTINF:-1 group-title="河北频道(IPV4)",河北都市
-http://60.7.56.33:4000/rtp/239.253.92.172:6002%24%E7%BB%84%E6%92%AD%E6%BA%90
 #EXTINF:-1 group-title="河北频道(IPV4)",河北农民
 http://60.7.56.33:4000/rtp/239.253.92.176:6006%24%E7%BB%84%E6%92%AD%E6%BA%90
 #EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="河北频道(IPV4)",霸州文化
