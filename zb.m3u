@@ -2610,6 +2610,22 @@ https://stream1.freetv.fun/dbab9dfd3da619826bd99d804a8840c996788a7d26c969da9059b
 https://stream1.freetv.fun/c4c0120437ff70a01309d1e652fe96ff0d6043c76e5f61a31ab68dd0ef9a3118.ctv
 #EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531151408095945_53.jpg" group-title="体育频道(IPV6)",[BD]陕西体育休闲
 https://stream1.freetv.fun/1f5de88a215786498482f7ea1b26ace3170d49d9d5ac8693727785cb18df9a67.ctv
+#EXTINF:-1 group-title="体育频道(IPV6)",JJ斗地主
+http://kxrj.site:8899/php/hy.php?id=14079954
+#EXTINF:-1 group-title="体育频道(IPV6)",麻将竞技君
+http://kxrj.site:8899/php/hy.php?id=29839772
+#EXTINF:-1 group-title="体育频道(IPV6)",四川麻将联赛
+http://kxrj.site:8899/php/hy.php?id=29851941
+#EXTINF:-1 group-title="体育频道(IPV6)",精品体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 group-title="体育频道(IPV6)",精品体育
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225674/1.m3u8
+#EXTINF:-1 group-title="体育频道(IPV6)",精品体育
+https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
+#EXTINF:-1 group-title="体育频道(IPV6)",CCTV+5+
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 group-title="体育频道(IPV6)",广东体育
+https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 
 
 
