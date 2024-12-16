@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="公告",更新12月15日
+#EXTINF:-1 group-title="公告",更新12月16日
 https://vd2.bdstatic.com/mda-nk3am8nwdgqfy6nh/sc/cae_h264/1667555203921394810/mda-nk3am8nwdgqfy6nh.mp4
 #EXTINF:-1 group-title="公告",失效联系微信
 https://vdse.bdstatic.com//f02b43b376225b167b9db435689a2ffc.mp4
@@ -680,6 +680,12 @@ http://58.19.244.92:1111/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 #EXTM3U
+#EXTINF:-1,tvg-id="chc动作电影" tvg-name="chc动作电影" tvg-logo="https://epg.v1.mk/logo/chc动作电影.png" group-title="数字频道(IPV6)",CHC动作电影
+https://stream1.freetv.fun/3418ffa2ae218404d9d5063d656d3d02454891b596ad1254c4a183c356987f35.m3u8
+#EXTINF:-1,tvg-id="chc动作电影" tvg-name="chc动作电影" tvg-logo="https://epg.v1.mk/logo/chc动作电影.png" group-title="数字频道(IPV6)",CHC动作电影
+https://stream1.freetv.fun/006b3f2e27c8a3230cc32045d44cba89721e350f7b12bfff5ea1f0109a52c014.m3u8
+#EXTINF:-1,tvg-id="chc影迷电影" tvg-name="chc影迷电影" tvg-logo="https://epg.v1.mk/logo/chc影迷电影.png" group-title="数字频道(IPV6)",CHC影迷电影
+https://stream1.freetv.fun/3668c71b5f7bc3c76d1599d51e4d5750b34788ca9e0a13b038dcb37f41180e09.m3u8
 #EXTINF:-1,tvg-id="chc动作电影" tvg-name="chc动作电影" tvg-logo="https://epg.v1.mk/logo/chc动作电影.png" group-title="数字频道(IPV6)",CHC动作电影
 https://stream1.freetv.fun/ipv6-chcdong-zuo-dian-ying-24.m3u8
 #EXTINF:-1,tvg-id="chc动作电影" tvg-name="chc动作电影" tvg-logo="https://epg.v1.mk/logo/chc动作电影.png" group-title="数字频道(IPV6)",CHC动作电影
