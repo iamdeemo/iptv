@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="公告",更新12月18日
+#EXTINF:-1 group-title="公告",更新12月19日
 https://vd2.bdstatic.com/mda-nk3am8nwdgqfy6nh/sc/cae_h264/1667555203921394810/mda-nk3am8nwdgqfy6nh.mp4
 #EXTINF:-1 group-title="公告",失效联系微信
 https://vdse.bdstatic.com//f02b43b376225b167b9db435689a2ffc.mp4
@@ -1122,7 +1122,11 @@ http://wouu.net:9977/udp/239.93.1.196:5140
 #EXTINF:-1,tvg-id="chc动作电影" tvg-name="chc动作电影" tvg-logo="https://epg.v1.mk/logo/chc动作电影.png" group-title="数字频道(IPV6)",CHC动作电影
 http://219.159.194.129:8181/tsfile/live/1019_1.m3u8
 #EXTINF:-1,tvg-id="chc家庭影院" tvg-name="chc家庭影院" tvg-logo="https://epg.v1.mk/logo/chc家庭影院.png" group-title="数字频道(IPV6)",CHC家庭影院
+http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820
+#EXTINF:-1,tvg-id="chc家庭影院" tvg-name="chc家庭影院" tvg-logo="https://epg.v1.mk/logo/chc家庭影院.png" group-title="数字频道(IPV6)",CHC家庭影院
 http://183.94.146.109:2222/tsfile/live/1018_1.m3u8
+#EXTINF:-1,tvg-id="chc影迷电影" tvg-name="chc影迷电影" tvg-logo="https://epg.v1.mk/logo/chc影迷电影.png" group-title="数字频道(IPV6)",CHC影迷电影
+http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004
 #EXTINF:-1,tvg-id="chc影迷电影" tvg-name="chc影迷电影" tvg-logo="https://epg.v1.mk/logo/chc影迷电影.png" group-title="数字频道(IPV6)",CHC影迷电影
 http://163.177.123.19:9901/tsfile/live/1046_1.m3u8
 #EXTINF:-1,tvg-id="chc动作电影" tvg-name="chc动作电影" tvg-logo="https://epg.v1.mk/logo/chc动作电影.png" group-title="数字频道(IPV6)",CHC动作电影
@@ -1135,10 +1139,8 @@ https://stream1.freetv.fun/3668c71b5f7bc3c76d1599d51e4d5750b34788ca9e0a13b038dcb
 https://stream1.freetv.fun/ipv6-chcdong-zuo-dian-ying-24.m3u8
 #EXTINF:-1 group-title="数字频道(IPV6)",CHC 家庭影院
 http://nas.hssvm.com:8888/udp/225.1.1.213:5002%24%E8%AE%A2%E9%98%85%E6%BA%90
-#EXTINF:-1 group-title="数字频道(IPV6)",CHC动作电影
+#EXTINF:-1 group-title="数字频道(IPV6)",动作电影
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8%24%E8%AE%A2%E9%98%85%E6%BA%90-IPv6
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="数字频道(IPV6)",CHC动作电影
-http://124.230.56.27:55555/udp/239.76.252.243:9000%24%E8%AE%A2%E9%98%85%E6%BA%90
 #EXTINF:-1 group-title="数字频道(IPV6)",NewTv黑莓电影
 http://39.134.134.51/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EkBVQL3MtyiM0GGQzuPjqAQ%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000005002606%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C371210150%2CEND&GuardEncType=2
 #EXTINF:-1 group-title="数字频道(IPV6)",NewTv超级电影
@@ -1149,7 +1151,7 @@ http://39.134.134.87/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226974/1.m3u
 http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="数字频道(IPV6)",CHC动作电影
 https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.m3u8
-#EXTINF:-1 group-title="数字频道(IPV6)",CHC家庭影院
+#EXTINF:-1 group-title="数字频道(IPV6)",CGTN
 https://pi.0472.org/chc/jt.m3u8
 #EXTINF:-1 group-title="数字频道(IPV6)",NewTV金牌综艺
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
