@@ -3391,14 +3391,6 @@ http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 
 
 #EXTM3U
-#EXTINF:-1,tvg-id="江苏国际" tvg-name="江苏国际" tvg-logo="https://epg.v1.mk/logo/江苏国际.png" group-title="江苏",江苏国际
-https://litchinews-tv-hls.jstv.com/litchinews-tv/jiangsugj.m3u8?sign=e30cc8dc48107611328bc4647bcc154a&t=6764af5d
-#EXTINF:-1,tvg-id="江苏综艺" tvg-name="江苏综艺" tvg-logo="https://epg.v1.mk/logo/江苏综艺.png" group-title="江苏",江苏综艺
-https://litchinews-tv-hls.jstv.com/litchinews-tv/jiangsuzy.m3u8?sign=8ddfc249f18b85160d3175387b51d354&t=6764b028
-#EXTINF:-1,tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://epg.v1.mk/logo/江苏城市.png" group-title="江苏",江苏城市
-https://litchinews-tv-hls.jstv.com/litchinews-tv/jiangsucs.m3u8?sign=65806cabf035d4a486377bcc0b3904a4&t=6764b047
-#EXTINF:-1,tvg-id="江苏教育" tvg-name="江苏教育" tvg-logo="https://epg.v1.mk/logo/江苏教育.png" group-title="江苏",江苏教育
-https://litchinews-tv-hls.jstv.com/litchinews-tv/jiangsujy.m3u8?sign=fd397ec78a1d677e5161fe4e38d6289c&t=6764b06c
 #EXTINF:-1 group-title="江苏频道(IPV4)",金湖新闻综合
 http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8?zjiangsd
 #EXTINF:-1 group-title="江苏频道(IPV4)",金坛新闻频道
