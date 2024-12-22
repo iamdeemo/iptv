@@ -744,11 +744,7 @@ http://58.19.244.92:1111/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="chc动作电影" tvg-name="chc动作电影" tvg-logo="https://epg.v1.mk/logo/chc动作电影.png" group-title="数字频道(IPV6)",CHC动作电影
 http://219.159.194.129:8181/tsfile/live/1019_1.m3u8
 #EXTINF:-1,tvg-id="chc家庭影院" tvg-name="chc家庭影院" tvg-logo="https://epg.v1.mk/logo/chc家庭影院.png" group-title="数字频道(IPV6)",CHC家庭影院
-http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820
-#EXTINF:-1,tvg-id="chc家庭影院" tvg-name="chc家庭影院" tvg-logo="https://epg.v1.mk/logo/chc家庭影院.png" group-title="数字频道(IPV6)",CHC家庭影院
 http://183.94.146.109:2222/tsfile/live/1018_1.m3u8
-#EXTINF:-1,tvg-id="chc影迷电影" tvg-name="chc影迷电影" tvg-logo="https://epg.v1.mk/logo/chc影迷电影.png" group-title="数字频道(IPV6)",CHC影迷电影
-http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004
 #EXTINF:-1,tvg-id="chc影迷电影" tvg-name="chc影迷电影" tvg-logo="https://epg.v1.mk/logo/chc影迷电影.png" group-title="数字频道(IPV6)",CHC影迷电影
 http://163.177.123.19:9901/tsfile/live/1046_1.m3u8
 #EXTINF:-1,tvg-id="chc动作电影" tvg-name="chc动作电影" tvg-logo="https://epg.v1.mk/logo/chc动作电影.png" group-title="数字频道(IPV6)",CHC动作电影
