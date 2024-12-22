@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="公告",更新12月22日
+#EXTINF:-1 group-title="公告",更新12月23日
 https://vd2.bdstatic.com/mda-nk3am8nwdgqfy6nh/sc/cae_h264/1667555203921394810/mda-nk3am8nwdgqfy6nh.mp4
 #EXTINF:-1 group-title="公告",失效联系微信
 https://vdse.bdstatic.com//f02b43b376225b167b9db435689a2ffc.mp4
@@ -760,8 +760,6 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010000/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010021/1.m3u8
 #EXTINF:-1 group-title="数字电视(IPV6)",欢乐剧场
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010025/1.m3u8
-#EXTINF:-1 group-title="数字电视(IPV6)",精品萌宠
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010146/1.m3u8
 #EXTINF:-1 group-title="数字电视(IPV6)",咪咕全民热练
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010147/1.m3u8
 #EXTINF:-1 group-title="数字电视(IPV6)",惊悚悬疑
@@ -820,8 +818,6 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031111/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8
 #EXTINF:-1 group-title="数字电视(IPV6)",金鹰纪实
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8
-#EXTINF:-1 group-title="数字电视(IPV6)",快乐垂钓
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8
 #EXTINF:-1 group-title="数字电视(IPV6)",茶友频道
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/1.m3u8
 #EXTINF:-1 group-title="数字电视(IPV6)",游戏风云
@@ -935,8 +931,6 @@ http://[2409:8087:1a0a:df::402a]/wh7f454c46tw1624655335_1622057483/ottrrs.hl.chi
 http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 #EXTINF:-1 group-title="数字电视(IPV6)",NewTV精品大剧
 http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 group-title="数字电视(IPV6)",NewTV精品纪录
-http://[2409:8087:74f0:22::4]:6410/270000001128/9900000109/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000349
 #EXTINF:-1 group-title="数字电视(IPV6)",NewTV精品萌宠
 http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 #EXTINF:-1 group-title="数字电视(IPV6)",NewTV军事评论
@@ -1366,14 +1360,6 @@ https://www.goodiptv.club/douyu/20415
 https://www.goodiptv.club/douyu/74374
 #EXTINF:-1 group-title="斗鱼电影(IPV4)",奶虫恐怖电影
 https://www.goodiptv.club/douyu/263824
-#EXTINF:-1 group-title="斗鱼电影(IPV4)",奶瓶科幻片
-https://www.goodiptv.club/douyu/6655271
-#EXTINF:-1 group-title="斗鱼电影(IPV4)",避风港影院
-https://www.goodiptv.club/douyu/9826611
-#EXTINF:-1 group-title="斗鱼电影(IPV4)",林林影院
-https://www.goodiptv.club/douyu/9652323
-#EXTINF:-1 group-title="斗鱼电影(IPV4)",漫威电影
-https://www.goodiptv.club/douyu/4282654
 #EXTINF:-1 group-title="斗鱼电影(IPV4)",恐怖经典
 https://www.goodiptv.club/douyu/1165374
 #EXTINF:-1 group-title="斗鱼电影(IPV4)",华语电影
