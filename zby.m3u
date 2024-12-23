@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="公告",更新12月23日
+#EXTINF:-1 group-title="公告",更新12月24日
 https://vd2.bdstatic.com/mda-nk3am8nwdgqfy6nh/sc/cae_h264/1667555203921394810/mda-nk3am8nwdgqfy6nh.mp4
 #EXTINF:-1 group-title="公告",失效联系微信
 https://vdse.bdstatic.com//f02b43b376225b167b9db435689a2ffc.mp4
@@ -447,14 +447,6 @@ http://119.62.36.56:9901/tsfile/live/0109_2.m3u8
 http://221.213.69.82:9901/tsfile/live/0112_1.m3u8
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视频道(IPV4)",山东卫视
 http://221.213.69.82:9901/tsfile/live/0126_1.m3u8
-#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.v1.mk/logo/陕西卫视.png" group-title="卫视频道(IPV4)",陕西卫视
-http://121.24.98.45:8090/hls/86/index.m3u8
-#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视频道(IPV4)",深圳卫视
-http://119.62.80.35:9901/tsfile/live/0138_1.m3u8
-#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视频道(IPV4)",深圳卫视
-http://d0bf2d.tv.netsite.cc/proxy/457534194/457534194.m3u8
-#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.v1.mk/logo/西藏卫视.png" group-title="卫视频道(IPV4)",西藏卫视
-http://222.142.70.7:9901/tsfile/live/0111_1.m3u8
 #EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.v1.mk/logo/新疆卫视.png" group-title="卫视频道(IPV4)",新疆卫视
 http://123.7.110.43:9901/tsfile/live/0110_1.m3u8
 #EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.v1.mk/logo/新疆卫视.png" group-title="卫视频道(IPV4)",新疆卫视
@@ -473,10 +465,6 @@ http://112.102.217.173:9003//hls/65/index.m3u8
 http://120.76.248.139/live/bfgd/4200000117.m3u8
 #EXTINF:-1,tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://epg.v1.mk/logo/延边卫视.png" group-title="卫视频道(IPV4)",延边卫视
 https://live.ybtvyun.com/video/s10006-2f92b9e0b123/index.m3u8
-#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.v1.mk/logo/云南卫视.png" group-title="卫视频道(IPV4)",云南卫视
-http://101.65.33.233:9901/tsfile/live/0110_1.m3u8
-#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.v1.mk/logo/云南卫视.png" group-title="卫视频道(IPV4)",云南卫视
-http://d0bf2d.tv.netsite.cc/proxy/599737477/599737477.m3u8
 #EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.v1.mk/logo/云南卫视.png" group-title="卫视频道(IPV4)",云南卫视
 http://221.213.69.82:9901/tsfile/live/0019_1.m3u8
 #EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="卫视频道(IPV4)",重庆卫视
@@ -515,12 +503,8 @@ http://wouu.net:9977/udp/239.93.1.196:5140
 
 
 #EXTM3U
-#EXTINF:-1 group-title="数字频道(IPV6)",CHC动作电影
-http://113.236.28.117:9901/tsfile/live/1101_1.m3u8
 #EXTINF:-1 group-title="数字频道(IPV6)",CHC家庭影院
 http://117.190.144.101:1111/tsfile/live/1018_1.m3u8
-#EXTINF:-1 group-title="数字频道(IPV6)",CHC动作电影
-http://123.189.39.129:9901/tsfile/live/1101_1.m3u8
 #EXTINF:-1,tvg-id="chc动作电影" tvg-name="chc动作电影" tvg-logo="https://epg.v1.mk/logo/chc动作电影.png" group-title="数字频道(IPV6)",CHC动作电影
 http://219.159.194.129:8181/tsfile/live/1019_1.m3u8
 #EXTINF:-1,tvg-id="chc动作电影" tvg-name="chc动作电影" tvg-logo="https://epg.v1.mk/logo/chc动作电影.png" group-title="数字频道(IPV6)",CHC动作电影
