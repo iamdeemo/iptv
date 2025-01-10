@@ -3418,12 +3418,6 @@ http://8.138.47.46:35455/yy/1355495186
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/睛彩篮球.png" group-title="体育频道(IPV6)",睛彩篮球
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270006/1.m3u8
-#EXTINF:-1 tvg-id="精品体育" tvg-name="精品体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品体育.png" group-title="体育频道(IPV6)",精品体育
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000014634/1.m3u8
-#EXTINF:-1 tvg-id="超级体育" tvg-name="超级体育" group-title="体育频道(IPV6)",超级体育
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009204/1.m3u8
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/睛彩竞技.png" group-title="体育频道(IPV6)",睛彩竞技
 http://[2409:8087:1a01:df::7005]:80/TVOD/88888888/224/3221225897/main.m3u8
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/睛彩竞技.png" group-title="体育频道(IPV6)",睛彩竞技
@@ -3432,12 +3426,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://live.zbds.top/logo/天元围棋.png" group-title="体育频道(IPV6)",天元围棋
 http://120.76.248.139/live/bfgd/4200000633.m3u8
-#EXTINF:-1 tvg-id="超级体育" tvg-name="超级体育" group-title="体育频道(IPV6)",超级体育
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009601/1.m3u8
-#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/睛彩篮球.png" group-title="体育频道(IPV6)",睛彩篮球
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270006/1.m3u8
-#EXTINF:-1 tvg-id="精品体育" tvg-name="精品体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品体育.png" group-title="体育频道(IPV6)",精品体育
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000014634/1.m3u8
 #EXTINF:-1 tvg-id="超级体育" tvg-name="超级体育" group-title="体育频道(IPV6)",超级体育
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009204/1.m3u8
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/睛彩竞技.png" group-title="体育频道(IPV6)",睛彩竞技
@@ -3833,30 +3821,14 @@ http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225738/index.m3u8%24%E8%AE%A2%E9%98%85%E6%BA%90-IPv6-1920x1080
 #EXTINF:-1 tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/上海纪实.png" group-title="上海频道(IPV6)",上海纪实
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8%24%E8%AE%A2%E9%98%85%E6%BA%90-IPv6-1920x1080
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="上海频道(IPV6)",动漫秀场
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8%24%E8%AE%A2%E9%98%85%E6%BA%90-IPv6-1920x1080
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="上海频道(IPV6)",哈哈炫动
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8%24%E8%AE%A2%E9%98%85%E6%BA%90-IPv6-1920x1080
 #EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://live.fanmingming.com/tv/新闻综合.png" group-title="上海频道(IPV6)",新闻综合
 http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0%24%E8%AE%A2%E9%98%85%E6%BA%90-1920x1080
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="上海频道(IPV6)",纪实人文
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8%24%E8%AE%A2%E9%98%85%E6%BA%90-IPv6-1920x1080
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="上海频道(IPV6)",都市剧场
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031111/1.m3u8%24%E8%AE%A2%E9%98%85%E6%BA%90-IPv6-1920x1080
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="上海频道(IPV6)",纪实人文
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225738/index.m3u8%24%E8%AE%A2%E9%98%85%E6%BA%90-IPv6-1920x1080
-#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://epg.iill.top/logo/东方影视.png" group-title="上海频道(IPV6)",东方影视
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&yang-1989
-#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.iill.top/logo/上海都市.png" group-title="上海频道(IPV6)",上海都市
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&yang-1989
-#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://epg.iill.top/logo/上海新闻.png" group-title="上海频道(IPV6)",上海新闻
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&yang-1989
-#EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://epg.iill.top/logo/上海外语.png" group-title="上海频道(IPV6)",ICS
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&yang-1989
-#EXTINF:-1 group-title="上海频道(IPV6)",金鹰纪实
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010106/1.m3u8
-#EXTINF:-1 group-title="上海频道(IPV6)",金鹰纪实
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/index.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=3
 #EXTINF:-1 group-title="上海频道(IPV6)",上海新闻综合
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 group-title="上海频道(IPV6)",上海纪实
@@ -3865,14 +3837,10 @@ http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225738/index.m3u8
 #EXTINF:-1 group-title="上海频道(IPV6)",上海纪实
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-#EXTINF:-1 group-title="上海频道(IPV6)",上海纪实人文
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010067/1.m3u8
 #EXTINF:-1 group-title="上海频道(IPV6)",上海都市
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 group-title="上海频道(IPV6)",东方财经
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000007000010003/1.m3u8
-#EXTINF:-1 group-title="上海频道(IPV6)",东方财经
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281
 
 
 
@@ -5092,24 +5060,16 @@ http://116.128.242.83:9901/tsfile/live/1011_1.m3u8?key=txiptv
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.iill.top/logo/广东珠江.png" group-title="广东频道(IPV4)",广东珠江「IPV6」
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000003000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000033&yang-1989
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.iill.top/logo/广东珠江.png" group-title="广东频道(IPV4)",广东珠江
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011655
-#EXTINF:-1 group-title="广东频道(IPV4)",大湾区卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/1.m3u8
 #EXTINF:-1 group-title="广东频道(IPV4)",广东体育
 http://121.33.239.242:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东频道(IPV4)",大湾区卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011655/1.m3u8
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://epg.iill.top/logo/大湾区卫视.png" group-title="卫视频道(IPV6)",大湾区卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
 #EXTINF:-1 group-title="广东频道(IPV4)",河源综合
 http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 group-title="广东频道(IPV4)",河源公共
 http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-#EXTINF:-1 group-title="广东频道(IPV4)",广东珠江
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/index.m3u8
 #EXTINF:-1 group-title="广东频道(IPV4)",广州电视台综合频道
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=234cace79a853922dd89c29a3823c470&txTime=191825e8b1d
 #EXTINF:-1 group-title="广东频道(IPV4)",广州电视台影视频道
@@ -5203,10 +5163,6 @@ https://stream1.freetv.fun/fa70e08f07e199c8dc86564530ff08a37a32e563d914f1b1465f3
 
 
 #EXTM3U
-#EXTINF:-1 group-title="儿童频道(IPV4)",黑莓动画
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010002/index.m3u8
-#EXTINF:-1 group-title="儿童频道(IPV4)",嘉佳卡通
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010102/1.m3u8
 #EXTINF:-1 group-title="儿童频道(IPV4)",海南少儿
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
 #EXTINF:-1 group-title="儿童频道(IPV4)",卡酷少儿
@@ -5215,8 +5171,6 @@ http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
 http://183.66.15.146:60901/tsfile/live/0126_2.m3u8
 #EXTINF:-1 group-title="儿童频道(IPV4)",卡酷少儿
 http://110.53.218.182:9902/tsfile/live/0124_1.m3u8
-#EXTINF:-1 group-title="儿童频道(IPV4)",嘉佳卡通
-http://183.3.134.56:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1 group-title="儿童频道(IPV4)",金鹰卡通
 http://218.13.170.98:9901/tsfile/live/1022_1.m3u8
 #EXTINF:-1 group-title="儿童频道(IPV4)",金鹰卡通
@@ -5251,10 +5205,6 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://116.128.242.83:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0%24%E5%8C%97%E4%BA%AC%E9%85%92%E5%BA%97%E6%BA%90
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="儿童频道(IPV4)",金鹰卡通
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8%24%E8%AE%A2%E9%98%85%E6%BA%90-IPv6
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="儿童频道(IPV4)",金鹰卡通
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040024/1.m3u8%24%E8%AE%A2%E9%98%85%E6%BA%90-IPv6
-#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="儿童频道(IPV4)",黑莓动画
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010002/main.m3u8%24%E8%AE%A2%E9%98%85%E6%BA%90-IPv6
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="儿童频道(IPV4)",浙江少儿
 http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8%24%E8%AE%A2%E9%98%85%E6%BA%90
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="儿童频道(IPV4)",浙江少儿
@@ -6087,12 +6037,6 @@ http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
 http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
 #EXTINF:-1 group-title="地方卫视2(IPV4)",十新闻 德里
 http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
-#EXTINF:-1 group-title="地方卫视2(IPV4)",荆门新闻综合
-http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
-#EXTINF:-1 group-title="地方卫视2(IPV4)",河北荆门教育
-http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
-#EXTINF:-1 group-title="地方卫视2(IPV4)",河北荆门新闻
-http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 group-title="地方卫视2(IPV4)",新电视超级电影 (1080p)
 http://live.dxhmt.cn:9081/tv/10883-1.m3u8
 #EXTINF:-1 group-title="地方卫视2(IPV4)",河南兰考新闻
@@ -6205,12 +6149,6 @@ https://live.gxrb.com.cn/gx/jingxi/index.m3u8
 https://live.gxrb.com.cn/gx/bama/index.m3u8
 #EXTINF:-1 group-title="地方卫视2(IPV4)",都安电视台
 https://live.gxrb.com.cn/gx/duan/index.m3u8
-#EXTINF:-1 group-title="地方卫视2(IPV4)",保定一套
-http://live.bdgdw.com/channel1/playlist.m3u8?_upt=167c22b91707375646
-#EXTINF:-1 group-title="地方卫视2(IPV4)",保定二套公共频道
-http://live.bdgdw.com/channel2/playlist.m3u8?_upt=1e7d342e1707375652
-#EXTINF:-1 group-title="地方卫视2(IPV4)",保定三套
-http://live.bdgdw.com/channel3/playlist.m3u8?_upt=e5982c0f1707375658
 #EXTINF:-1 group-title="地方卫视2(IPV4)",张家口一套新闻综合频道
 http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
 #EXTINF:-1 group-title="地方卫视2(IPV4)",荣昌综合频道
@@ -6223,8 +6161,6 @@ http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
 https://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 #EXTINF:-1 group-title="地方卫视2(IPV4)",十堰经济旅游频道
 https://p8.vzan.com/slowlive/701367497774448672/live.m3u8
-#EXTINF:-1 group-title="地方卫视2(IPV4)",荆门新闻频道
-http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 group-title="地方卫视2(IPV4)",巩义新闻综合频道
 http://live.dxhmt.cn:9081/tv/10181-1.m3u8
 #EXTINF:-1 group-title="地方卫视2(IPV4)",新郑新闻综合频道
