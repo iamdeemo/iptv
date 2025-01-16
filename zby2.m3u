@@ -128,8 +128,6 @@ http://220.170.241.204:9901/tsfile/live/0001_1.m3u8?key=txiptv
 http://202.100.46.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视卫视(IPV4)",CCTV1
 http://61.156.228.12:8154/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV1
-http://223.241.247.214:9901/tsfile/live/0001_1.m3u8
 #EXTINF:-1 group-title="央视卫视(IPV4)",CCTV2
 http://220.170.241.204:9901/tsfile/live/0002_1.m3u8
 #EXTINF:-1 group-title="央视卫视(IPV4)",CCTV2
@@ -140,16 +138,12 @@ http://113.86.205.6:808/hls/114/index.m3u8
 http://202.100.46.58:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视卫视(IPV4)",CCTV3
 http://113.86.205.6:808/hls/115/index.m3u8
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV3
-http://223.241.247.214:9901/tsfile/live/0003_1.m3u8
 #EXTINF:-1 group-title="央视卫视(IPV4)",CCTV4
 http://113.86.205.6:808/hls/116/index.m3u8
 #EXTINF:-1 group-title="央视卫视(IPV4)",CCTV4
 http://202.100.46.58:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视卫视(IPV4)",CCTV4
 http://61.156.228.12:8154/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV4
-http://223.241.247.214:9901/tsfile/live/0004_1.m3u8
 #EXTINF:-1 group-title="央视卫视(IPV4)",CCTV5
 http://220.170.241.204:9901/tsfile/live/0005_1.m3u8
 #EXTINF:-1 group-title="央视卫视(IPV4)",CCTV5
@@ -158,10 +152,6 @@ http://220.170.241.204:9901/tsfile/live/0005_1.m3u8?key=txiptv
 http://113.86.205.6:808/hls/58/index.m3u8
 #EXTINF:-1 group-title="央视卫视(IPV4)",CCTV5
 http://202.100.46.58:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV5
-http://223.241.247.214:9901/tsfile/live/0005_1.m3u8
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV5
-http://223.241.247.214:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视卫视(IPV4)",CCTV5
 http://61.156.228.12:8154/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视卫视(IPV4)",CCTV5+
@@ -194,8 +184,6 @@ http://220.170.241.204:9901/tsfile/live/0008_1.m3u8?key=txiptv
 http://113.86.205.6:808/hls/120/index.m3u8
 #EXTINF:-1 group-title="央视卫视(IPV4)",CCTV8
 http://61.156.228.12:8154/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV8
-http://223.241.247.214:9901/tsfile/live/0008_1.m3u8
 #EXTINF:-1 group-title="央视卫视(IPV4)",CCTV9
 http://220.170.241.204:9901/tsfile/live/0009_1.m3u8
 #EXTINF:-1 group-title="央视卫视(IPV4)",CCTV9
@@ -204,12 +192,8 @@ http://220.170.241.204:9901/tsfile/live/0009_1.m3u8?key=txiptv
 http://113.86.205.6:808/hls/121/index.m3u8
 #EXTINF:-1 group-title="央视卫视(IPV4)",CCTV9
 http://202.100.46.58:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV9
-http://223.241.247.214:9901/tsfile/live/0009_1.m3u8
 #EXTINF:-1 group-title="央视卫视(IPV4)",CCTV10
 http://202.100.46.58:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV10
-http://223.241.247.214:9901/tsfile/live/0010_1.m3u8
 #EXTINF:-1 group-title="央视卫视(IPV4)",CCTV10
 http://113.86.205.6:808/hls/122/index.m3u8
 #EXTINF:-1 group-title="央视卫视(IPV4)",CCTV10
@@ -237,13 +221,9 @@ http://113.86.205.6:808/hls/125/index.m3u8
 #EXTINF:-1 group-title="央视卫视(IPV4)",CCTV13
 http://202.100.46.58:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视卫视(IPV4)",CCTV13
-http://223.241.247.214:9901/tsfile/live/0013_1.m3u8
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV13
 http://61.156.228.12:8154/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视卫视(IPV4)",CCTV14
 http://220.170.241.204:9901/tsfile/live/0014_1.m3u8
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV14
-http://223.241.247.214:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视卫视(IPV4)",CCTV14
 http://113.86.205.6:808/hls/5/index.m3u8
 #EXTINF:-1 group-title="央视卫视(IPV4)",CCTV15
@@ -254,8 +234,6 @@ http://220.170.241.204:9901/tsfile/live/0015_1.m3u8?key=txiptv
 http://113.86.205.6:808/hls/127/index.m3u8
 #EXTINF:-1 group-title="央视卫视(IPV4)",CCTV15
 http://202.100.46.58:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV15
-http://223.241.247.214:9901/tsfile/live/0015_1.m3u8
 #EXTINF:-1 group-title="央视卫视(IPV4)",CCTV15
 http://61.156.228.12:8154/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视卫视(IPV4)",CCTV16
@@ -339,51 +317,57 @@ http://183.136.148.214:9901/tsfile/live/1000_1.m3u8?key=txiptv
 
 
 #EXTM3U
-#EXTINF:-1 group-title="数字电视(IPV6)",1905电影网
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" group-title="数字电视(IPV4)",重温经典
+http://148.135.93.213:81/live.php?id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8
+#EXTINF:-1 tvg-name="CHC家庭影院" group-title="数字电视(IPV4)",CHC家庭影院
+http://148.135.93.213:81/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2
+#EXTINF:-1 tvg-name="CHC动作电影" group-title="数字电视(IPV4)",CHC动作电影
+http://148.135.93.213:81/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
+#EXTINF:-1 group-title="数字电视(IPV4)",1905电影网
 http://php.jdshipin.com:8880/1905.php?id=1905dy
-#EXTINF:-1 group-title="数字电视(IPV6)",1905电影欧美
+#EXTINF:-1 group-title="数字电视(IPV4)",1905电影欧美
 http://php.jdshipin.com:8880/1905.php?id=1905dy2
-#EXTINF:-1,tvg-id="chc动作电影" tvg-name="chc动作电影" tvg-logo="https://epg.v1.mk/logo/chc动作电影.png" group-title="数字电视(IPV6)",CHC动作电影
+#EXTINF:-1,tvg-id="chc动作电影" tvg-name="chc动作电影" tvg-logo="https://epg.v1.mk/logo/chc动作电影.png" group-title="数字电视(IPV4)",CHC动作电影
 https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.m3u8
-#EXTINF:-1,tvg-id="chc动作电影" tvg-name="chc动作电影" tvg-logo="https://epg.v1.mk/logo/chc动作电影.png" group-title="数字电视(IPV6)",CHC动作电影
+#EXTINF:-1,tvg-id="chc动作电影" tvg-name="chc动作电影" tvg-logo="https://epg.v1.mk/logo/chc动作电影.png" group-title="数字电视(IPV4)",CHC动作电影
 https://stream1.freetv.fun/3418ffa2ae218404d9d5063d656d3d02454891b596ad1254c4a183c356987f35.m3u8
-#EXTINF:-1,tvg-id="chc动作电影" tvg-name="chc动作电影" tvg-logo="https://epg.v1.mk/logo/chc动作电影.png" group-title="数字电视(IPV6)",CHC动作电影
+#EXTINF:-1,tvg-id="chc动作电影" tvg-name="chc动作电影" tvg-logo="https://epg.v1.mk/logo/chc动作电影.png" group-title="数字电视(IPV4)",CHC动作电影
 https://stream1.freetv.fun/006b3f2e27c8a3230cc32045d44cba89721e350f7b12bfff5ea1f0109a52c014.m3u8
-#EXTINF:-1,tvg-id="chc影迷电影" tvg-name="chc影迷电影" tvg-logo="https://epg.v1.mk/logo/chc影迷电影.png" group-title="数字电视(IPV6)",CHC影迷电影
+#EXTINF:-1,tvg-id="chc影迷电影" tvg-name="chc影迷电影" tvg-logo="https://epg.v1.mk/logo/chc影迷电影.png" group-title="数字电视(IPV4)",CHC影迷电影
 https://stream1.freetv.fun/fb1e407995dc9699c2f42ace7d757b89a8464140d0e6b1a16f384d63e50bb43d.m3u8
-#EXTINF:-1,tvg-id="chc影迷电影" tvg-name="chc影迷电影" tvg-logo="https://epg.v1.mk/logo/chc影迷电影.png" group-title="数字电视(IPV6)",CHC影迷电影
+#EXTINF:-1,tvg-id="chc影迷电影" tvg-name="chc影迷电影" tvg-logo="https://epg.v1.mk/logo/chc影迷电影.png" group-title="数字电视(IPV4)",CHC影迷电影
 https://stream1.freetv.fun/3668c71b5f7bc3c76d1599d51e4d5750b34788ca9e0a13b038dcb37f41180e09.m3u8
-#EXTINF:-1,tvg-id="动作电影" tvg-name="动作电影" tvg-logo="https://epg.v1.mk/logo/动作电影.png" group-title="数字电视(IPV6)",动作电影
+#EXTINF:-1,tvg-id="动作电影" tvg-name="动作电影" tvg-logo="https://epg.v1.mk/logo/动作电影.png" group-title="数字电视(IPV4)",动作电影
 https://stream1.freetv.fun/ipv6-chcdong-zuo-dian-ying-24.m3u8
-#EXTINF:-1 group-title="数字电视(IPV6)",北京IPTV淘电影
+#EXTINF:-1 group-title="数字电视(IPV4)",北京IPTV淘电影
 http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 group-title="数字电视(IPV6)",CHC动作电影
+#EXTINF:-1 group-title="数字电视(IPV4)",CHC动作电影
 https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.m3u8
-#EXTINF:-1 group-title="数字电视(IPV6)",CGTN
+#EXTINF:-1 group-title="数字电视(IPV4)",CGTN
 https://pi.0472.org/chc/jt.m3u8
-#EXTINF:-1 group-title="数字电视(IPV6)",港台電視33
+#EXTINF:-1 group-title="数字电视(IPV4)",港台電視33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-#EXTINF:-1 group-title="数字电视(IPV6)",港台電視34
+#EXTINF:-1 group-title="数字电视(IPV4)",港台電視34
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-#EXTINF:-1 group-title="数字电视(IPV6)",CHC動作電影
+#EXTINF:-1 group-title="数字电视(IPV4)",CHC動作電影
 https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.m3u8
-#EXTINF:-1 group-title="数字电视(IPV6)",CCTV風雲足球
+#EXTINF:-1 group-title="数字电视(IPV4)",CCTV風雲足球
 https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
-#EXTINF:-1 group-title="数字电视(IPV6)",CCTV央視檯球
+#EXTINF:-1 group-title="数字电视(IPV4)",CCTV央視檯球
 https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
-#EXTINF:-1 group-title="数字电视(IPV6)",CCTV世界地理
+#EXTINF:-1 group-title="数字电视(IPV4)",CCTV世界地理
 https://epg.pw/stream/a21d3b2c0fb8bedc944540de165684096fba12a38f2320b2432ff9db7a01dd03.m3u8
-#EXTINF:-1 group-title="数字电视(IPV6)",CCTV衛生健康
+#EXTINF:-1 group-title="数字电视(IPV4)",CCTV衛生健康
 https://epg.pw/stream/fc90a505bbcefc5a9c91e5dc5e12f5b0d6f76ac5f86b55a33ee724051af2d385.m3u8
-#EXTINF:-1 group-title="数字电视(IPV6)",CCTV風雲音樂
+#EXTINF:-1 group-title="数字电视(IPV4)",CCTV風雲音樂
 https://epg.pw/stream/6085b1ee65bdfe6d5512fe91890757573e1a6f4912485655fdcedb19f7eda497.m3u8
-#EXTINF:-1 group-title="数字电视(IPV6)",CCTV女性時尚
+#EXTINF:-1 group-title="数字电视(IPV4)",CCTV女性時尚
 https://epg.pw/stream/1077cc124885bf8775068ce65630acf3ef9480488700f3b093314c6070bdb3e0.m3u8
-#EXTINF:-1 group-title="数字电视(IPV6)",CCTV兵器科技
+#EXTINF:-1 group-title="数字电视(IPV4)",CCTV兵器科技
 https://epg.pw/stream/eefe6cb512978f2ae6655942726d3db62226f7a84f4b2a25e4bc3babaaaa596a.m3u8
-#EXTINF:-1 group-title="数字电视(IPV6)",CCTV電視指南
+#EXTINF:-1 group-title="数字电视(IPV4)",CCTV電視指南
 https://epg.pw/stream/9e948bbd5453affbe5fe879bc1c4145203aac9b993b01e7db9b1148e40815499.m3u8
-#EXTINF:-1 group-title="数字电视(IPV6)",CCTV風雲劇場
+#EXTINF:-1 group-title="数字电视(IPV4)",CCTV風雲劇場
 https://epg.pw/stream/676f4b273ee7a1b54be02b6406b73822401d0be7b04001f0e77cb0c2a88830bf.m3u8
 
 
