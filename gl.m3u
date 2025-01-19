@@ -66,122 +66,108 @@ https://www.freetv.top/migu/673168223.m3u8?migutoken=4e8d5766579c6bef231494cabd0
 
 
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV1
-http://220.170.241.204:9901/tsfile/live/0001_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV1
-http://220.170.241.204:9901/tsfile/live/0001_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV1
-http://202.100.46.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV1
-http://61.156.228.12:8154/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV2
-http://220.170.241.204:9901/tsfile/live/0002_1.m3u8
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV2
-http://220.170.241.204:9901/tsfile/live/0002_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV2
-http://113.86.205.6:808/hls/114/index.m3u8
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV3
-http://202.100.46.58:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV3
-http://113.86.205.6:808/hls/115/index.m3u8
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV4
-http://113.86.205.6:808/hls/116/index.m3u8
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV4
-http://202.100.46.58:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV4
-http://61.156.228.12:8154/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV5
-http://220.170.241.204:9901/tsfile/live/0005_1.m3u8
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV5
-http://220.170.241.204:9901/tsfile/live/0005_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV5
-http://113.86.205.6:808/hls/58/index.m3u8
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV5
-http://202.100.46.58:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV5
-http://61.156.228.12:8154/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV5+
-http://220.170.241.204:9901/tsfile/live/0016_1.m3u8
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV5+
-http://113.86.205.6:808/hls/10/index.m3u8
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV5+
-http://61.156.228.12:8154/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV6
-http://220.170.241.204:9901/tsfile/live/0006_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV6
-http://113.86.205.6:808/hls/118/index.m3u8
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV6
-http://222.169.85.8:9901/tsfile/live/0006_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV6
-http://202.100.46.58:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV7
-http://220.170.241.204:9901/tsfile/live/0007_1.m3u8
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV7
-http://220.170.241.204:9901/tsfile/live/0007_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV7
-http://113.86.205.6:808/hls/119/index.m3u8
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV8
-http://220.170.241.204:9901/tsfile/live/0008_1.m3u8
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV7
-http://61.156.228.12:8154/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV8
-http://220.170.241.204:9901/tsfile/live/0008_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV8
-http://113.86.205.6:808/hls/120/index.m3u8
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV8
-http://61.156.228.12:8154/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV9
-http://220.170.241.204:9901/tsfile/live/0009_1.m3u8
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV9
-http://220.170.241.204:9901/tsfile/live/0009_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV9
-http://113.86.205.6:808/hls/121/index.m3u8
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV9
-http://202.100.46.58:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV10
-http://202.100.46.58:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV10
-http://113.86.205.6:808/hls/122/index.m3u8
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV10
-http://61.156.228.12:8154/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV11
-http://220.170.241.204:9901/tsfile/live/0011_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV11
-http://113.86.205.6:808/hls/123/index.m3u8
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV11
-http://202.100.46.58:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV12
-http://220.170.241.204:9901/tsfile/live/0012_1.m3u8
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV12
-http://220.170.241.204:9901/tsfile/live/0012_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV12
-http://222.169.85.8:9901/tsfile/live/0012_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV12
-http://113.86.205.6:808/hls/124/index.m3u8
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV12
-http://202.100.46.58:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV12
-http://61.156.228.12:8154/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV13
-http://113.86.205.6:808/hls/125/index.m3u8
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV13
-http://202.100.46.58:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV13
-http://61.156.228.12:8154/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV14
-http://220.170.241.204:9901/tsfile/live/0014_1.m3u8
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV14
-http://113.86.205.6:808/hls/5/index.m3u8
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV15
-http://220.170.241.204:9901/tsfile/live/0015_1.m3u8
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV15
-http://220.170.241.204:9901/tsfile/live/0015_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV15
-http://113.86.205.6:808/hls/127/index.m3u8
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV15
-http://202.100.46.58:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视卫视(IPV4)",CCTV15
-http://61.156.228.12:8154/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央卫综合",CCTV1
+http://113.220.234.228:9999/tsfile/live/0017_1.m3u8
+#EXTINF:-1 group-title="央卫综合",CCTV1
+http://106.118.70.71:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央卫综合",CCTV2
+http://219.145.59.166:8888/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央卫综合",CCTV2
+http://113.220.234.228:9999/tsfile/live/0018_1.m3u8
+#EXTINF:-1 group-title="央卫综合",CCTV2
+http://221.13.234.14:9901/tsfile/live/0002_1.m3u8
+#EXTINF:-1 group-title="央卫综合",CCTV3
+http://219.145.59.166:8888/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央卫综合",CCTV3
+http://113.220.234.228:9999/tsfile/live/0019_1.m3u8
+#EXTINF:-1 group-title="央卫综合",CCTV3
+http://221.13.234.14:9901/tsfile/live/0003_1.m3u8
+#EXTINF:-1 group-title="央卫综合",CCTV4
+http://219.145.59.166:8888/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央卫综合",CCTV4
+http://221.13.234.14:9901/tsfile/live/0004_1.m3u8
+#EXTINF:-1 group-title="央卫综合",CCTV4
+http://106.118.70.71:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央卫综合",CCTV5
+http://219.145.59.166:8888/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央卫综合",CCTV5
+http://113.220.234.228:9999/tsfile/live/0005_1.m3u8
+#EXTINF:-1 group-title="央卫综合",CCTV5
+http://221.13.234.14:9901/tsfile/live/0005_1.m3u8
+#EXTINF:-1 group-title="央卫综合",CCTV6
+http://219.145.59.166:8888/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央卫综合",CCTV6
+http://106.118.70.71:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央卫综合",CCTV6
+http://113.220.234.228:9999/tsfile/live/0006_1.m3u8
+#EXTINF:-1 group-title="央卫综合",CCTV6
+http://221.13.234.14:9901/tsfile/live/0006_1.m3u8
+#EXTINF:-1 group-title="央卫综合",CCTV6
+http://112.6.165.112:9901/tsfile/live/0006_1.m3u8
+#EXTINF:-1 group-title="央卫综合",CCTV7
+http://219.145.59.166:8888/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央卫综合",CCTV7
+http://113.220.234.228:9999/tsfile/live/0007_1.m3u8
+#EXTINF:-1 group-title="央卫综合",CCTV7
+http://106.118.70.71:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央卫综合",CCTV7
+http://221.13.234.14:9901/tsfile/live/0007_1.m3u8
+#EXTINF:-1 group-title="央卫综合",CCTV8
+http://113.220.234.228:9999/tsfile/live/0008_1.m3u8
+#EXTINF:-1 group-title="央卫综合",CCTV8
+http://106.118.70.71:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央卫综合",CCTV8
+http://219.145.59.166:8888/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央卫综合",CCTV8
+http://221.13.234.14:9901/tsfile/live/0008_1.m3u8
+#EXTINF:-1 group-title="央卫综合",CCTV9
+http://219.145.59.166:8888/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央卫综合",CCTV9
+http://113.220.234.228:9999/tsfile/live/0009_1.m3u8
+#EXTINF:-1 group-title="央卫综合",CCTV9
+http://221.13.234.14:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 group-title="央卫综合",CCTV10
+http://219.145.59.166:8888/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央卫综合",CCTV10
+http://113.220.234.228:9999/tsfile/live/0010_1.m3u8
+#EXTINF:-1 group-title="央卫综合",CCTV10
+http://221.13.234.14:9901/tsfile/live/0010_1.m3u8
+#EXTINF:-1 group-title="央卫综合",CCTV11
+http://219.145.59.166:8888/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央卫综合",CCTV11
+http://113.220.234.228:9999/tsfile/live/0011_2.m3u8
+#EXTINF:-1 group-title="央卫综合",CCTV11
+http://106.118.70.71:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央卫综合",CCTV11
+http://221.13.234.14:9901/tsfile/live/0011_1.m3u8
+#EXTINF:-1 group-title="央卫综合",CCTV12
+http://219.145.59.166:8888/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央卫综合",CCTV12
+http://113.220.234.228:9999/tsfile/live/0012_2.m3u8
+#EXTINF:-1 group-title="央卫综合",CCTV12
+http://221.13.234.14:9901/tsfile/live/0012_1.m3u8
+#EXTINF:-1 group-title="央卫综合",CCTV13
+http://219.145.59.166:8888/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央卫综合",CCTV13
+http://106.118.70.71:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央卫综合",CCTV13
+http://221.13.234.14:9901/tsfile/live/0013_1.m3u8
+#EXTINF:-1 group-title="央卫综合",CCTV14
+http://219.145.59.166:8888/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央卫综合",CCTV14
+http://113.220.234.228:9999/tsfile/live/0014_1.m3u8
+#EXTINF:-1 group-title="央卫综合",CCTV14
+http://106.118.70.71:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央卫综合",CCTV14
+http://221.13.234.14:9901/tsfile/live/0014_1.m3u8
+#EXTINF:-1 group-title="央卫综合",CCTV15
+http://219.145.59.166:8888/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央卫综合",CCTV15
+http://113.220.234.228:9999/tsfile/live/0015_1.m3u8
+#EXTINF:-1 group-title="央卫综合",CCTV15
+http://219.128.121.202:59901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央卫综合",CCTV15
+http://221.13.234.14:9901/tsfile/live/0015_1.m3u8
 #EXTINF:-1 group-title="央视卫视(IPV4)",CCTV16
 http://202.100.46.58:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视卫视(IPV4)",CCTV17
