@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
-#EXTM3U
-#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
 #EXTINF:-1 group-title="央视频道(IPV4)",CCTV1
 http://goo.bkpcp.top/mg/cctv1
 #EXTINF:-1 group-title="央视频道(IPV4)",CCTV2
@@ -53,8 +51,6 @@ https://0472.org/hls/cgtna.m3u8
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 
 
-
-#EXTM3U
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
 #EXTINF:-1 group-title="卫视频道(IPV4)",北京卫视
 http://106.53.99.30/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%A6%B4%E8%8A%92%E7%94%B5%E8%A7%86%E3%80%91/proxy/gitv1.php?id=18
