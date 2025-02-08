@@ -143,25 +143,88 @@ https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPla
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 #EXTINF:-1 group-title="数字电视",CHC動作電影
 https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.m3u8
-#EXTINF:-1 group-title="数字电视",CCTV風雲足球
-https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
-#EXTINF:-1 group-title="数字电视",CCTV央視檯球
-https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
-#EXTINF:-1 group-title="数字电视",CCTV世界地理
-https://epg.pw/stream/a21d3b2c0fb8bedc944540de165684096fba12a38f2320b2432ff9db7a01dd03.m3u8
-#EXTINF:-1 group-title="数字电视",CCTV衛生健康
-https://epg.pw/stream/fc90a505bbcefc5a9c91e5dc5e12f5b0d6f76ac5f86b55a33ee724051af2d385.m3u8
-#EXTINF:-1 group-title="数字电视",CCTV風雲音樂
-https://epg.pw/stream/6085b1ee65bdfe6d5512fe91890757573e1a6f4912485655fdcedb19f7eda497.m3u8
-#EXTINF:-1 group-title="数字电视",CCTV女性時尚
-https://epg.pw/stream/1077cc124885bf8775068ce65630acf3ef9480488700f3b093314c6070bdb3e0.m3u8
-#EXTINF:-1 group-title="数字电视",CCTV兵器科技
-https://epg.pw/stream/eefe6cb512978f2ae6655942726d3db62226f7a84f4b2a25e4bc3babaaaa596a.m3u8
-#EXTINF:-1 group-title="数字电视",CCTV電視指南
-https://epg.pw/stream/9e948bbd5453affbe5fe879bc1c4145203aac9b993b01e7db9b1148e40815499.m3u8
-#EXTINF:-1 group-title="数字电视",CCTV風雲劇場
-https://epg.pw/stream/676f4b273ee7a1b54be02b6406b73822401d0be7b04001f0e77cb0c2a88830bf.m3u8
-
+#EXTINF:-1 group-title="数字电视",iHOT爱浪漫
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="数字电视",iHOT爱院线
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="数字电视",iHOT爱喜剧
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="数字电视",iHOT爱科幻
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="数字电视",iHOT爱科学
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235603/smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="数字电视",iHOT爱奇谈
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235605/smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="数字电视",iHOT爱幼教
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235622/smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="数字电视",iHOT爱玩具
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235626/smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="数字电视",iHOT爱动漫
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235628/smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="数字电视",iHOT爱赛车
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
+#EXTINF:-1 group-title="数字电视",iHOT爱旅行
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
+#EXTINF:-1 group-title="数字电视",iHOT爱谍战
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
+#EXTINF:-1 group-title="数字电视",iHOT爱悬疑
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
+#EXTINF:-1 group-title="数字电视",iHOT爱历史
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/index.m3u8
+#EXTINF:-1 group-title="数字电视",iHOT爱体育
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230103/index.m3u8
+#EXTINF:-1 group-title="数字电视",咪咕体育-4K
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235583/index.m3u8
+#EXTINF:-1 group-title="数字电视",明星大片
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236153/index.m3u8
+#EXTINF:-1 group-title="数字电视",军事评论
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236155/index.m3u8
+#EXTINF:-1 group-title="数字电视",精选电影
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236157/index.m3u8
+#EXTINF:-1 group-title="数字电视",潮妈辣婆
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236167/index.m3u8
+#EXTINF:-1 group-title="数字电视",欢乐剧场
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236173/index.m3u8
+#EXTINF:-1 group-title="数字电视",爱情喜剧
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236179/index.m3u8
+#EXTINF:-1 group-title="数字电视",动作电影
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236183/index.m3u8
+#EXTINF:-1 group-title="数字电视",海外剧场
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236204/index.m3u8
+#EXTINF:-1 group-title="数字电视",家庭剧场
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236206/index.m3u8
+#EXTINF:-1 group-title="数字电视",哒啵赛事
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236207/index.m3u8
+#EXTINF:-1 group-title="数字电视",精选剧场
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236208/index.m3u8
+#EXTINF:-1 group-title="数字电视",怡伴健康
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236220/index.m3u8
+#EXTINF:-1 group-title="数字电视",惊悚悬疑
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236223/index.m3u8
+#EXTINF:-1 group-title="数字电视",炫舞未来
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236230/index.m3u8
+#EXTINF:-1 group-title="数字电视",农业致富
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236233/index.m3u8
+#EXTINF:-1 group-title="数字电视",精品大剧
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236239/index.m3u8
+#EXTINF:-1 group-title="数字电视",古装剧场
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236240/index.m3u8
+#EXTINF:-1 group-title="数字电视",武搏世界
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236247/index.m3u8
+#EXTINF:-1 group-title="数字电视",黑莓电影
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236248/index.m3u8
+#EXTINF:-1 group-title="数字电视",黑莓动画
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236261/index.m3u8
+#EXTINF:-1 group-title="数字电视",中国功夫
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236267/index.m3u8
+#EXTINF:-1 group-title="数字电视",精品纪录
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236276/index.m3u8
+#EXTINF:-1 group-title="数字电视",军旅剧场
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236278/index.m3u8
+#EXTINF:-1 group-title="数字电视",金牌综艺
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236282/index.m3u8
+#EXTINF:-1 group-title="数字电视",精品体育
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236300/index.m3u8
 
 
 #EXTM3U
